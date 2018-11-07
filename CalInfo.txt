@@ -3,3 +3,6 @@ Name: Caleb Kroll
 github ID: cjkroll
 
 date: 5 Nov 2018
+
+
+Team member: Sally
