@@ -80,19 +80,43 @@ merger <- merge.data.frame(test_txt, all_words)
 merger <- merger[!duplicated(merger$words), ]
 
 
+# add new column to merger which shows the number of characters in the word found in each row
+
+merger$word_length <- nchar(as.character(merger$words))
+
+
+# remove all rows which contain words with 2 or fewer characters
+
+test <- merger[merger$word_length > 2, ]
+
+
+# confirming shortest words now are 3 characters long
+
+min(test$word_length)
+
+#########################################################################################################
+
+# exporting full dataframe 
+
+write.csv(test, file = "cs11a02_hangman_data_with_word_lengths", quote = FALSE, row.names = FALSE, col.names = FALSE)
+
+
+
+##################################################################################################
+
 # extracting all words into their own dataframe
 
-words <- merger$words
+words <- test$words
 
 words <- as.data.frame(words, stringsAsFactors = FALSE)
 
 # saving the 'list' of words into their own .txt file
 
-write.table(words, file = "cs11a02_hangman_words.txt", quote = FALSE, row.names = FALSE)
+write.table(words, file = "cs11a02_hangman_words.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
 
 # extracting all definitions into their own dataframe
 
-definitions <- merger$definition
+definitions <- test$definition
 
 definitions <- as.data.frame(definitions, stringAsFactors = FALSE)
 

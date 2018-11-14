@@ -1,7 +1,5 @@
-A-  prefix (also an- before a vowel sound) not, without (amoral). [greek]
-Aa  abbr. 1 automobile association. 2 alcoholics anonymous. 3 anti-aircraft.
+definitions
 Aardvark  n. Mammal with a tubular snout and a long tongue, feeding on termites. [afrikaans]
-Ab initio  adv. From the beginning. [latin]
 Aback  adv.  take aback surprise, disconcert. [old english: related to *a2]
 Abacus  n. (pl. -cuses) 1 frame with wires along which beads are slid for calculating. 2 archit. Flat slab on top of a capital. [latin from greek from hebrew]
 Abaft  naut. —adv. In the stern half of a ship. —prep. Nearer the stern than. [from *a2, -baft: see *aft]
@@ -100,7 +98,6 @@ Abutment  n. Lateral supporting structure of a bridge, arch, etc.
 Abuzz  adv. & adj. In a state of excitement or activity.
 Abysmal  adj. 1 colloq. Extremely bad (abysmal food). 2 profound, utter (abysmal ignorance).  abysmally adv. [latin: related to *abyss]
 Abyss  n. 1 deep chasm. 2 immeasurable depth (abyss of despair). [latin from greek, = bottomless]
-Ac  symb. Actinium.
 Acacia  n. Tree with yellow or white flowers, esp. One yielding gum arabic. [latin from greek]
 Academia  n. The academic world; scholastic life.
 Academic  —adj. 1 scholarly, of learning. 2 of no practical relevance; theoretical. —n. Teacher or scholar in a university etc.  academically adv.
@@ -228,7 +225,6 @@ Acuity  n. Sharpness, acuteness. [medieval latin: related to *acute]
 Acumen  n. Keen insight or discernment. [latin, = *acute thing]
 Acupuncture  n. Medical treatment using needles in parts of the body.  acupuncturist n. [latin acu with needle]
 Acute  —adj. (acuter, acutest) 1 serious, severe (acute hardship). 2 (of senses etc.) Keen, penetrating. 3 shrewd. 4 (of a disease) coming quickly to a crisis. 5 (of an angle) less than 90°. 6 (of a sound) high, shrill. —n. = *acute accent.  acutely adv. [latin acutus pointed]
-Ad  n. Colloq. Advertisement. [abbreviation]
 Adage  n. Traditional maxim, proverb. [french from latin]
 Adagio  mus. —adv. & adj. In slow time. —n. (pl. -s) such a movement or passage. [italian]
 Adam  n. The first man.  not know a person from adam be unable to recognize a person. [hebrew, = man]
@@ -351,7 +347,6 @@ Aerospace  n. 1 earth's atmosphere and outer space. 2 aviation in this.
 Aesthete  n. Person who has or professes a special appreciation of beauty. [greek aisthanomai perceive]
 Aesthetic  —adj. 1 of or sensitive to beauty. 2 artistic, tasteful. —n. (in pl.) Philosophy of beauty, esp. In art.  aesthetically adv. Aestheticism n.
 Aetiology  n. (us etiology) study of causation or of the causes of disease.  aetiological adj. [greek aitia cause]
-Af  abbr. Audio frequency.
 Afar  adv. At or to a distance.
 Affable  adj. 1 friendly. 2 courteous.  affability n. Affably adv. [latin affabilis]
 Affair  n. 1 matter, concern, or thing to be attended to (that is my affair). 2 a celebrated or notorious happening. B colloq. Thing or event (puzzling affair). 3 = *love affair. 4 (in pl.) Public or private business. [french à faire to do]
@@ -402,7 +397,6 @@ Aftertaste  n. Taste after eating or drinking.
 Afterthought  n. Thing thought of or added later.
 Afterward  adv. (brit. Afterwards) later, subsequently. [old english: related to *after, *-ward]
 Afterwards  adv. (us afterward) later, subsequently. [old english: related to *after, *-ward]
-Ag  symb. Silver. [latin argentum]
 Again  adv. 1 another time; once more. 2 as previously (home again; well again). 3 in addition (as much again). 4 further, besides (again, what about you?). 5 on the other hand (i might, and again i might not).  again and again repeatedly. [old english]
 Against  prep. 1 in opposition to (fight against crime). 2 into collision or in contact with (lean against the wall). 3 to the disadvantage of (my age is against me). 4 in contrast to (against a dark background). 5 in anticipation of (against his coming; against the cold). 6 as a compensating factor to (income against expenditure). 7 in return for (issued against payment of the fee).  against the grain see *grain. Against time see *time. [from *again, with inflectional -s]
 Agape  predic. Adj. Gaping, open-mouthed. [from *a2]
@@ -447,12 +441,10 @@ Agrimony  n. (pl. -ies) perennial plant with small yellow flowers. [greek argemo
 Agronomy  n. Science of soil management and crop production.  agronomist n. [greek agros land]
 Aground  predic. Adj. & adv. On or on to the bottom of shallow water (run aground).
 Ague  n. 1 hist. Malarial fever. 2 shivering fit. [latin: related to *acute]
-Ah  abbr. In the year of the hegira (ad 622); of the muslim era. [latin anno hegirae]
 Aha  int. Expressing surprise, triumph, mockery, etc. [from *ah, *ha1]
 Ahead  adv. 1 further forward in space or time. 2 in the lead (ahead on points).
 Ahem  int. Used to attract attention, gain time, etc. [from *hem2]
 Ahoy  int. Naut. Call used in hailing. [from *ah, *hoy]
-Ai  abbr. 1 artificial insemination. 2 artificial intelligence.
 Aid  abbr. Artificial insemination by donor.
 Aide-de-camp  n. (pl. Aides-de-camp pronunc. Same) officer assisting a senior officer. [french]
 Aids  n. (also aids) acquired immune deficiency syndrome, an often fatal viral syndrome marked by severe loss of resistance to infection. [abbreviation]
@@ -502,7 +494,6 @@ Ajar  adv. & predic.adj. (of a door) slightly open. [from *a2, obsolete char fro
 Akela  n. Adult leader of cub scouts. [name of the leader of the wolf-pack in kipling's jungle book]
 Akimbo  adv. (of the arms) with hands on the hips and elbows turned outwards. [originally in kenebowe, probably from old norse]
 Akin  predic. Adj. 1 related by blood. 2 similar.
-Al dente  adj. (of pasta etc.) Cooked so as to be still firm when bitten. [italian, = ‘to the tooth’]
 Alabaster  —n. Translucent usu. White form of gypsum, used for carving etc. —adj. 1 of alabaster. 2 white or smooth. [greek alabastros]
 Alacrity  n. Briskness; cheerful readiness. [latin alacer brisk]
 Alarm  —n. 1 warning of danger etc. 2 a warning sound or device. B = *alarm clock. 3 apprehension (filled with alarm). —v. 1 frighten or disturb. 2 warn.  alarming adj. Alarmingly adv. [italian all'arme! To arms]
@@ -637,7 +628,6 @@ Alumnus  n. (pl. Alumni; fem. Alumna, pl. Alumnae) former pupil or student. [lat
 Always  adv. 1 at all times; on all occasions. 2 whatever the circumstances. 3 repeatedly, often. [from *all, *way]
 Alyssum  n. Plant with small usu. Yellow or white flowers. [greek, = curing madness]
 Alzheimer's disease  n. Brain disorder causing senility. [alzheimer, name of a neurologist]
-Am  abbr. Amplitude modulation.
 Amalgam  n. 1 mixture or blend. 2 alloy of mercury and another metal, used esp. In dentistry. [greek malagma an emollient]
 Amalgamate  v. (-ting) 1 mix, unite. 2 (of metals) alloy with mercury.  amalgamation n. [medieval latin: related to *amalgam]
 Amanuensis  n. (pl. -enses) literary assistant, esp. Writing from dictation. [latin a manu ‘at hand’]
@@ -727,7 +717,6 @@ Amuck  var. Of *amok.
 Amulet  n. Charm worn against evil. [latin]
 Amuse  v. (-sing) 1 cause to laugh or smile. 2 interest or occupy.  amusing adj. [french a cause to, muser stare]
 Amusement arcade  n. Indoor area with slot-machines.
-An  see *a1.
 Anabaptist  n. Member of a religious group believing in baptism only of adults. [greek ana again]
 Anabolic steroid  n. Synthetic steroid hormone used to increase muscle size.
 Anabolism  n. Synthesis of complex molecules in living organisms from simpler ones together with the storage of energy. [greek anabole ascent]
@@ -1075,7 +1064,6 @@ Aqueduct  n. Water channel, esp. A bridge on columns across a valley. [latin aqu
 Aqueous  adj. Of or like water. [latin aqua water]
 Aquilegia  n. (usu. Blue-flowered) columbine. [latin]
 Aquiline  adj. 1 of or like an eagle. 2 (of a nose) curved. [latin aquila eagle]
-Arête  n. Sharp mountain ridge. [french from latin arista spine]
 Arab  —n. 1 member of a semitic people originating in saudi arabia and neighbouring countries, now widespread throughout the middle east. 2 horse of a breed orig. Native to arabia. —adj. Of arabia or the arabs (esp. With ethnic reference). [arabic araps]
 Arabesque  n. 1 ballet posture with one leg extended horizontally backwards and arms outstretched. 2 design of intertwined leaves, scrolls, etc. 3 mus. Florid piece. [french from italian from arabo arab]
 Arabian  —adj. Of or relating to arabia (esp. In geographical contexts) (arabian desert). —n. Native of arabia.
@@ -1240,7 +1228,6 @@ Artwork  n. 1 illustrative material in printed matter. 2 works of art collective
 Arty  adj. (-ier, -iest) colloq. Pretentiously or affectedly artistic.
 Arum  n. Plant with arrow-shaped leaves. [greek aron]
 Aryan  —n. 1 speaker of any of the languages of the indo-european family. 2 improperly (in nazi ideology) non-jewish caucasian. —adj. Of aryans. [sanskrit]
-As  symb. Arsenic.
 Asafetida  n. (brit. Asafoetida) resinous pungent plant gum used in cooking and formerly in medicine. [persian aza mastic: related to *fetid]
 Asafoetida  n. (us asafetida) resinous pungent plant gum used in cooking and formerly in medicine. [persian aza mastic: related to *fetid]
 Asbestos  n. 1 fibrous silicate mineral. 2 this as a heat-resistant or insulating material. [greek, = unquenchable]
@@ -1366,7 +1353,6 @@ Astute  adj. Shrewd.  astutely adv. Astuteness n. [latin astus craft]
 Asunder  adv. Literary apart.
 Asylum  n. 1 sanctuary; protection, esp. For fugitives from the law (seek asylum). 2 hist. Institution for the mentally ill or destitute. [greek a- not, sulon right of seizure]
 Asymmetry  n. Lack of symmetry.  asymmetric adj. Asymmetrical adj. [greek]
-At-home  n. Social reception in a person's home.
 Atavism  n. 1 reappearance of a remote ancestral characteristic, throwback. 2 reversion to an earlier type.  atavistic adj. [latin atavus ancestor]
 Ataxia  n. Med. Imperfect control of bodily movements. [greek a- without, taxis order]
 Ate  past of *eat.
@@ -1509,7 +1495,6 @@ Autostrada  n. (pl. -s or -strade) italian motorway. [italian]
 Autumn equinox  n. (also autumnal equinox) equinox about 22 sept.
 Auxiliary  —adj. 1 subsidiary, additional. 2 giving help. —n. (pl. -ies) 1 auxiliary person or thing. 2 (in pl.) Foreign or allied troops in the service of a nation at war. 3 verb used to form tenses or moods of other verbs (e.g. Have in i have seen). [latin auxilium help]
 Auxin  n. Plant hormone that regulates growth.
-Av  abbr. Authorized version.
 Avail  —v. 1 help; be of use. 2 refl. (foll. By of) make use of, profit by. —n. Use, profit (of no avail). [latin valeo be strong]
 Available  adj. 1 at one's disposal, obtainable. 2 a (of a person) free, not committed. B able to be contacted.  availability n.
 Avalanche  n. 1 rapidly sliding mass of snow and ice on a mountain. 2 sudden abundance (avalanche of work). [french]
@@ -1557,7 +1542,6 @@ Awoke  past of *awake.
 Awoken  past part. Of *awake.
 Awol  abbr. Colloq. Absent without leave.
 Awry  —adv. 1 crookedly, askew. 2 amiss, wrong. —predic. Adj. Crooked; unsound.
-Ax  (brit. Axe) —n. 1 chopping-tool with a handle and heavy blade. 2 (the ax) dismissal (of employees); abandonment of a project etc. —v. (axing) cut (esp. Costs or staff) drastically; abandon (a project).  an ax to grind private ends to serve. [old english]
 Axe  (us ax) —n. 1 chopping-tool with a handle and heavy blade. 2 (the axe) dismissal (of employees); abandonment of a project etc. —v. (axing) cut (esp. Costs or staff) drastically; abandon (a project).  an axe to grind private ends to serve. [old english]
 Axial  adj. Of, forming, or placed round an axis.
 Axil  n. Upper angle between a leaf and stem. [latin axilla armpit]
@@ -1571,8 +1555,6 @@ Azalea  n. A kind of rhododendron. [greek azaleos dry]
 Azimuth  n. Angular distance from a north or south point of the horizon to the intersection with the horizon of a vertical circle passing through a given celestial body.  azimuthal adj. [french from arabic]
 Aztec  —n. 1 member of the native mexican people overthrown by the spanish in 1519. 2 language of this people. —adj. Of the aztecs or their language. [nahuatl, = men of the north]
 Azure  —n. 1 deep sky-blue colour. 2 poet. Clear sky. —adj. Deep sky-blue. [arabic]
-B 
-Ba  abbr. 1 bachelor of arts. 2 british airways.
 Baa  —v. (baas, baaed or baa'd) bleat. —n. Sheep's cry. [imitative]
 Babble  —v. (-ling) 1 a talk, chatter, or say incoherently or excessively. B (of a stream etc.) Murmur. 2 repeat or divulge foolishly. —n. 1 babbling. 2 murmur of voices, water, etc. [imitative]
 Babe  n. 1 literary baby. 2 innocent or helpless person. 3 us slang young woman. [as *baby]
@@ -1898,10 +1880,7 @@ Bayberry  n. (pl. -ies) fragrant n. American tree.
 Bayonet  —n. 1 stabbing blade attachable to the muzzle of a rifle. 2 electrical fitting pushed into a socket and twisted. —v. (-t-) stab with bayonet. [french, perhaps from bayonne in sw france]
 Bazaar  n. 1 oriental market. 2 fund-raising sale of goods, esp. For charity. [persian]
 Bazooka  n. Anti-tank rocket-launcher. [origin unknown]
-Bb  abbr. Double-black (pencil-lead).
-Bd  abbr. Bachelor of divinity.
 Bdellium  n. 1 tree yielding resin. 2 this used in perfumes. [latin from greek]
-Be  v. (sing. Present am; are; is; past was; were; pres. Part. Being; past part. Been) 1 exist, live (i think, therefore i am; there is no god). 2 a occur; take place (dinner is at eight).
 Bevel gear  n. Gear working another at an angle to it.
 Beverage  n. Formal drink. [latin bibo drink]
 Bevy  n. (pl. -ies) company (of quails, larks, women, etc.). [origin unknown]
@@ -1913,7 +1892,6 @@ Beyond  —prep. 1 at or to the further side of. 2 outside the scope or understa
 Bezel  n. 1 sloped edge of a chisel. 2 oblique faces of a cut gem. 3 groove holding a watch-glass or gem. [french]
 Bezique  n. Card-game for two. [french]
 Bhang  n. Indian hemp used as a narcotic. [portuguese from sanskrit]
-Bi  symb. Bismuth.
 Biannual  adj. Occurring etc. Twice a year.
 Bias  —n. 1 (often foll. By towards, against) predisposition or prejudice. 2 statistics distortion of a statistical result due to a neglected factor. 3 edge cut obliquely across the weave of a fabric. 4 sport a irregular shape given to a bowl. B oblique course this causes it to run. —v. (-s- or -ss-) 1 (esp. As biased adj.) Influence (usu. Unfairly); prejudice. 2 give a bias to.  on the bias obliquely, diagonally. [french]
 Biathlon  n. Athletic contest in skiing and shooting or cycling and running. [from *bi-, after *pentathlon]
@@ -2052,8 +2030,6 @@ Bivalve  —n. Aquatic mollusc with a hinged double shell, e.g. The oyster and m
 Bivouac  —n. Temporary open encampment without tents. —v. (-ck-) make, or camp in, a bivouac. [french, probably from german]
 Biz  n. Colloq. Business. [abbreviation]
 Bizarre  adj. Strange; eccentric; grotesque. [french]
-Bk  symb. Berkelium.
-Bl  abbr. British library.
 Blab  v. (-bb-) 1 talk foolishly or indiscreetly. 2 reveal (a secret etc.); confess. [imitative]
 Blabber  —n. (also blabbermouth) person who blabs. —v. (often foll. By on) talk foolishly or inconsequentially.
 Black beetle  n. The common cockroach.
@@ -2201,8 +2177,6 @@ Blurt  v. (usu. Foll. By out) utter abruptly, thoughtlessly, or tactlessly. [imi
 Blush  —v. 1 a become pink in the face from embarrassment or shame. B (of the face) redden thus. 2 feel embarrassed or ashamed. 3 redden. —n. 1 act of blushing. 2 pink tinge. [old english]
 Blusher  n. Rouge.
 Bluster  —v. 1 behave pompously or boisterously. 2 (of the wind etc.) Blow fiercely. —n. Bombastic talk; empty threats.  blustery adj. [imitative]
-Bm  abbr. 1 british museum. 2 bachelor of medicine.
-Bo  abbr. Colloq. Body odour.
 Boa constrictor  n. Species of boa.
 Boar  n. 1 male wild pig. 2 uncastrated male pig. [old english]
 Board  —n. 1 a flat thin piece of sawn timber, usu. Long and narrow. B material resembling this, of compressed fibres. C thin slab of wood etc. D thick stiff card used in bookbinding. 2 provision of regular meals, usu. With accommodation, for payment. 3 directors of a company; official administrative body. 4 (in pl.) Stage of a theatre. 5 side of a ship. —v. 1 go on board (a ship, train, etc.). 2 receive, or provide with, meals and usu. Lodging. 3 (usu. Foll. By up) cover with boards; seal or close.  go by the board be neglected or discarded. On board on or on to a ship, aircraft, oil rig, etc. Take on board consider, take notice of; accept. [old english]
@@ -2416,8 +2390,6 @@ Boy scout  n. = *scout n. 4.
 Boycott  —v. 1 refuse to have social or commercial relations with (a person, country, etc.). 2 refuse to handle (goods). —n. Such a refusal. [capt. Boycott, so treated from 1880]
 Boyfriend  n. Person's regular male companion or lover.
 Boyo  n. (pl. -s) welsh & ir. Colloq. (esp. As a form of address) boy, mate.
-Bp  abbr. 1 boiling-point. 2 blood pressure. 3 before the present (era). 4 british petroleum. 5 british pharmacopoeia.
-Br  abbr. British rail.
 Bra  n. Undergarment worn by women to support the breasts. [abbreviation]
 Brace  —n. 1 device that clamps or fastens tightly. 2 timber etc. Strengthening a framework. 3 (in pl.) Straps supporting trousers from the shoulders. 4 wire device for straightening the teeth. 5 (pl. Same) pair (esp. Of game). 6 rope for trimming a sail. 7 connecting mark { or } in printing. —v. (-cing) 1 make steady by supporting. 2 fasten tightly to make firm. 3 (esp. As bracing adj.) Invigorate, refresh. 4 (often refl.) Prepare for a difficulty, shock, etc. [latin bracchia arms]
 Bracelet  n. 1 ornamental band or chain worn on the wrist or arm. 2 slang handcuff.
@@ -2631,8 +2603,6 @@ Brutal  adj. 1 savagely cruel. 2 harsh, merciless.  brutality n. (pl. -ies). Br
 Brutalize  v. (also -ise) (-zing or -sing) 1 make brutal. 2 treat brutally.
 Brute  —n. 1 a brutal or violent person. B colloq. Unpleasant person or difficult thing. 2 animal. —attrib. Adj. 1 unthinking (brute force). 2 cruel; stupid; sensual.  brutish adj. Brutishly adv. Brutishness n. [latin brutus stupid]
 Bryony  n. (pl. -ies) climbing plant with red berries. [latin from greek]
-Bs  abbr. 1 bachelor of surgery. 2 british standard(s).
-Bt  abbr. British telecom.
 Bubble gum  n. Chewing-gum that can be blown into bubbles.
 Bubbly  —adj. (-ier, -iest) 1 having or like bubbles. 2 exuberant. —n. Colloq. Champagne.
 Bubo  n. (pl. -es) inflamed swelling in the armpit or groin. [greek boubon groin]
@@ -2805,7 +2775,6 @@ Buyout  n. Purchase of a controlling share in a company etc.
 Buzz  —n. 1 hum of a bee etc. 2 sound of a buzzer. 3 a low murmur as of conversation. B stir; hurried activity (buzz of excitement). 4 slang telephone call. 5 slang thrill. —v. 1 hum. 2 a summon with a buzzer. B slang telephone. 3 a (often foll. By about) move busily. B (of a place) appear busy or full of excitement.  buzz off slang go or hurry away. [imitative]
 Buzzard  n. Large bird of the hawk family. [latin buteo falcon]
 Buzzer  n. Electrical buzzing device as a signal.
-By-  prefix subordinate, incidental (by-effect; byroad).
 Bye1  n. 1 cricket run scored from a ball that passes the batsman without being hit. 2 status of an unpaired competitor in a sport, who proceeds to the next round by default. [from *by as a noun]
 Byelorussian  (also belorussian) —n. Native or language of byelorussia in eastern europe. —adj. Of byelorussia, its people, or language. [russian from belyi white, russiya russia]
 Bygone  —adj. Past, antiquated. —n. (in phr. Let bygones be bygones) forgive and forget past quarrels.
@@ -2820,8 +2789,6 @@ Byte  n. Computing group of eight binary digits, often representing one characte
 Byway  n. 1 byroad or secluded path. 2 minor activity.
 Byword  n. 1 person or thing as a notable example (is a byword for luxury). 2 familiar saying.
 Byzantine  —adj. 1 of byzantium or the e. Roman empire. 2 of its highly decorated style of architecture. 3 (of a political situation etc.) Complex, inflexible, or underhand. —n. Citizen of byzantium or the e. Roman empire.  byzantinism n. Byzantinist n. [latin byzantium, now istanbul]
-C.  Abbr. Circa.
-Ca  symb. Calcium.
 Cab  n. 1 taxi. 2 driver's compartment in a lorry, train, or crane etc. [abbreviation of *cabriolet]
 Cabal  n. 1 secret intrigue. 2 political clique. [french from latin]
 Cabaret  n. Entertainment in a nightclub or restaurant. [french, = tavern]
@@ -3335,10 +3302,6 @@ Cavy  n. (pl. -ies) small s. American rodent, esp. The guinea pig. [latin from g
 Caw  —n. Harsh cry of a rook, crow, etc. —v. Utter this cry. [imitative]
 Cayenne  n. (in full cayenne pepper) powdered red pepper. [tupi]
 Cayman  n. (also caiman) (pl. -s) s. American alligator-like reptile. [spanish and portuguese from carib]
-Cb  abbr. 1 citizens' band. 2 companion of the order of the bath.
-Cc  abbr. (also c.c.) 1 cubic centimetre(s). 2 copy or copies (to).
-Cd  abbr. Candela.
-Ce  symb. Cerium.
 Cease-fire  n. 1 period of truce. 2 order to stop firing.
 Ceaseless  adj. Without end.  ceaselessly adv.
 Cecum  n. (brit. Caecum) (pl. -ca) blind-ended pouch at the junction of the small and large intestines. [latin caecus blind]
@@ -3443,9 +3406,6 @@ Cession  n. 1 ceding. 2 territory etc. Ceded. [latin: related to *cede]
 Cesspit  n. (also cesspool) covered pit for the temporary storage of liquid waste or sewage. [origin uncertain]
 Cetacean  —n. Marine mammal, e.g. The whale. —adj. Of cetaceans. [greek ketos whale]
 Cetane  n. Liquid hydrocarbon used in standardizing ratings of diesel fuel. [from *spermaceti]
-Cf  symb. Californium.
-Cg  abbr. Centigram(s).
-Château  n. (pl. -x) large french country house or castle. [french: related to *castle]
 Cha-cha  n. (also cha-cha-cha) 1 latin-american dance. 2 music for this. [american spanish]
 Chablis  n. (pl. Same) very dry white wine from chablis in e. France.
 Chaconne  n. 1 musical variations over a ground bass. 2 dance performed to this. [french from spanish]
@@ -3840,7 +3800,6 @@ Civilization  n. (also -isation) 1 advanced stage or system of social developmen
 Civilize  v. (also -ise) (-zing or -sing) 1 bring out of a barbarous or primitive stage of society. 2 enlighten; refine and educate. [french: related to *civil]
 Civvies  n.pl. Slang civilian clothes. [abbreviation]
 Civvy street  n. Slang civilian life. [abbreviation]
-Cl  symb. Chlorine.
 Clack  —v. 1 make a sharp sound as of boards struck together. 2 chatter. —n. Clacking noise or talk. [imitative]
 Clad  adj. 1 clothed. 2 provided with cladding. [past part. Of *clothe]
 Cladding  n. Covering or coating on a structure or material etc.
@@ -3990,8 +3949,6 @@ Clunk  —n. Dull sound as of thick pieces of metal meeting. —v. Make such a s
 Cluster  —n. Close group or bunch of similar people or things growing or occurring together. —v. 1 bring into, come into, or be in cluster(s). 2 (foll. By round, around) gather. [old english]
 Clutch bag  n. Slim flat handbag without handles.
 Clutter  —n. 1 crowded and untidy collection of things. 2 untidy state. —v. (often foll. By up, with) crowd untidily, fill with clutter. [related to *clot]
-Cm  symb. Curium.
-Co  abbr. Commanding officer.
 Coach  —n. 1 single-decker bus, usu. Comfortably equipped for long journeys. 2 railway carriage. 3 closed horse-drawn carriage. 4 a instructor or trainer in a sport. B private tutor. —v. Train or teach as a coach. [french from magyar]
 Coachman  n. Driver of a horse-drawn carriage.
 Coachwork  n. Bodywork of a road or rail vehicle.
@@ -4996,7 +4953,6 @@ Cozy  (brit. Cosy) —adj. (-ier, -iest) comfortable and warm; snug. —n. (pl. 
 Cpl.  Abbr. Corporal.
 Cps  abbr. (also c.p.s.) 1 computing characters per second. 2 sci. Cycles per second.
 Cpu  abbr. Computing central processing unit.
-Crèche  n. Day nursery. [french]
 Crab1  n. 1 a ten-footed crustacean, with the first pair of legs as pincers. B crab as food. 2 (crab) sign or constellation cancer. 3 (in full crab-louse) (often in pl.) Parasitic louse transmitted sexually to esp. Pubic hair. 4 machine for hoisting heavy weights.  catch a crab rowing jam an oar or miss the water.  crablike adj. [old english]
 Crabbed  adj. 1 = *crabby. 2 (of handwriting) ill-formed; illegible. [from *crab2]
 Crabby  adj. (-ier, -iest) irritable, morose.  crabbily adv. Crabbiness n.
@@ -5231,8 +5187,6 @@ Crystalline  adj. 1 of, like, or clear as crystal. 2 having the structure and fo
 Crystallize  v. (also -ise) (-zing or -sing) 1 form into crystals. 2 (often foll. By out) (of ideas or plans) make or become definite. 3 make or become coated or impregnated with sugar (crystallized fruit).  crystallization n.
 Crystallography  n. Science of crystal formation and structure.  crystallographer n.
 Crystalloid  n. Substance that in solution is able to pass through a semipermeable membrane.
-Cs gas  n. Tear-gas used to control riots etc. [corson and stoughton, names of chemists]
-Cu.  Abbr. Cubic.
 Cub  —n. 1 young of a fox, bear, lion, etc. 2 (cub) (in full cub scout) junior scout. 3 colloq. Young newspaper reporter. —v. (-bb-) (also absol.) Give birth to (cubs). [origin unknown]
 Cubby-hole  n. 1 very small room. 2 snug space. [low german]
 Cube root  n. Number which produces a given number when cubed.
@@ -5400,8 +5354,6 @@ Cytoplasm  n. Protoplasmic content of a cell apart from its nucleus.  cytoplasm
 Czar  var. Of *tsar
 Czech  —n. 1 native or national of czechoslovakia. 2 one of the two official languages of czechoslovakia. —adj. Of czechoslovakia, its people, or language. [bohemian cech]
 Czechoslovak  (also czechoslovakian) —n. Native or national of czechoslovakia. —adj. Of czechoslovakia. [from *czech, *slovak]
-D 
-Da capo  adv. Mus. Repeat from the beginning. [italian]
 Dab2  n. (pl. Same) a kind of marine flat-fish. [origin unknown]
 Dabble  v. (-ling) 1 (usu. Foll. By in, at) engage (in an activity etc.) Superficially. 2 move the feet, hands, etc. In esp. Shallow liquid. 3 wet partly; stain, splash.  dabbler n. [from *dab1]
 Dabchick  n. = *little grebe. [old english]
@@ -5515,11 +5467,7 @@ Daylight saving  n. Longer summer evening daylight, achieved by putting clocks f
 Daytime  n. Part of the day when there is natural light.
 Daze  —v. (-zing) stupefy, bewilder. —n. State of bewilderment. [old norse]
 Dazzle  —v. (-ling) 1 blind or confuse temporarily with a sudden bright light. 2 impress or overpower with knowledge, ability, etc. —n. Bright confusing light.  dazzling adj. Dazzlingly adv. [from *daze]
-Db  abbr. Decibel(s).
-Dc  abbr. 1 (also dc) direct current. 2 district of columbia. 3 da capo.
-Dd  abbr. Doctor of divinity.
 Ddt  abbr. Colourless chlorinated hydrocarbon used as insecticide. [from the chemical name]
-De-ice  v. 1 remove ice from. 2 prevent the formation of ice on.  de-icer n.
 Deacon  n. (fem. (in senses 2 and 3) deaconess) 1 (in episcopal churches) minister below bishop and priest. 2 (in nonconformist churches) lay officer. 3 (in the early church) minister of charity. [greek diakonos servant]
 Deactivate  v. (-ting) make inactive or less reactive.
 Dead on  adj. Exactly right.
@@ -6061,7 +6009,6 @@ Dextrose  n. Form of glucose. [latin dextra on or to the right]
 Dhal  n. (also dal) 1 a kind of split pulse common in india. 2 dish made with this. [hindi]
 Dharma  n. Ind. 1 social custom; correct behaviour. 2 the buddhist truth. 3 the hindu moral law. [sanskrit, = decree, custom]
 Dhoti  n. (pl. -s) loincloth worn by male hindus. [hindi]
-Di-1  comb. Form two-, double. [greek dis twice]
 Dia-  prefix (also di- before a vowel) 1 through (diaphanous). 2 apart (diacritical). 3 across (diameter). [greek dia through]
 Diabetes  n. Disease in which sugar and starch are not properly absorbed by the body. [latin from greek]
 Diabetic  —adj. 1 of or having diabetes. 2 for diabetics. —n. Person suffering from diabetes.
@@ -6542,11 +6489,7 @@ Divvy  colloq. —n. (pl. -ies) dividend. —v. (-ies, -ied) (often foll. By up)
 Dixie  n. Southern states of the us. [origin uncertain]
 Dixieland  n. 1 = *dixie. 2 traditional kind of jazz.
 Dizzy  —adj. (-ier, -iest) 1 a giddy. B feeling confused. 2 causing giddiness. —v. (-ies, -ied) 1 make dizzy. 2 bewilder.  dizzily adv. Dizziness n. [old english]
-Dj  abbr. 1 dinner-jacket. 2 disc jockey.
 Djellaba  n. (also jellaba) loose hooded cloak (as) worn by arab men. [arabic]
-Dl  abbr. Decilitre(s).
-Dm  abbr. Decimetre(s).
-Do-gooder  n. Well-meaning but unrealistic or patronizing philanthropist or reformer.
 Doe  abbr. Department of the environment.
 Doer  n. 1 person who does something. 2 person who acts rather than theorizing.
 Does  see *do1.
@@ -6699,7 +6642,6 @@ Doz.  Abbr. Dozen.
 Doze  —v. (-zing) sleep lightly; be half asleep. —n. Short light sleep.  doze off fall lightly asleep. [origin unknown]
 Dozen  n. 1 (prec. By a or a number) (pl. Dozen) twelve (a dozen eggs; two dozen eggs). 2 set of twelve (sold in dozens). 3 (in pl.; usu. Foll. By of) colloq. Very many (dozens of errors).  talk nineteen to the dozen talk incessantly. [latin duodecim twelve]
 Dozy  adj. (-ier, -iest) 1 drowsy. 2 colloq. Stupid or lazy.
-Dr  abbr. Doctor.
 Drab  adj. (drabber, drabbest) 1 dull, uninteresting. 2 of a dull brownish colour.  drably adv. Drabness n. [obsolete drap cloth]
 Drachm  n. Weight formerly used by apothecaries, = 1/8 ounce. [latin from greek]
 Drachma  n. (pl. -s) 1 chief monetary unit of greece. 2 silver coin of ancient greece. [greek drakhme]
@@ -6822,7 +6764,6 @@ Dry dock  n. Dock that can be pumped dry for building or repairing ships.
 Dryad  n. Wood nymph. [greek drus tree]
 Dryer  var. Of *drier2.
 Dryly  var. Of *drily.
-Dt  abbr. (also dt's) delirium tremens.
 Dual control  n. Two linked sets of controls, enabling operation by either of two persons.
 Dub2  v. (-bb-) 1 provide (a film etc.) With an, esp. Translated, alternative soundtrack. 2 add (sound effects or music) to a film or broadcast. 3 transfer or make a copy of (recorded sound or images). [abbreviation of *double]
 Dubbin  n. (also dubbing) thick grease for softening and waterproofing leather. [see *dub1 3]
@@ -6917,7 +6858,6 @@ Dwarf  —n. (pl. -s or dwarves) 1 person, animal, or plant much below normal si
 Dwell  v. (past and past part. Dwelt or dwelled) live, reside.  dwell on (or upon) think, write, or speak at length on.  dweller n. [old english, = lead astray]
 Dwelling  n. House, residence.
 Dwindle  v. (-ling) 1 become gradually less or smaller. 2 lose importance. [old english]
-Dy  symb. Dysprosium.
 Dye  —n. 1 substance used to change the colour of hair, fabric, etc. 2 colour so produced. —v. (dyeing, dyed) 1 colour with dye. 2 dye a specified colour (dyed it yellow).  dyer n. [old english]
 Dyed-in-the-wool  adj. (usu. Attrib.) Out and out; unchangeable.
 Dying  attrib. Adj. Of, or at the time of, death (dying words).
@@ -6940,7 +6880,6 @@ Dyspepsia  n. Indigestion.  dyspeptic adj. & n. [greek peptos digested]
 Dysphasia  n. Lack of coordination in speech, owing to brain damage. [greek dusphatos hard to utter]
 Dysprosium  n. Metallic element of the lanthanide series. [greek dusprositos hard to get at]
 Dystrophy  n. Defective nutrition. [greek -trophe nourishment]
-E 
 Each other  pron. One another.
 Eager  adj. Keen, enthusiastic (eager to learn; eager for news).  eagerly adv. Eagerness n. [latin acer keen]
 Eagle  n. 1 a large bird of prey with keen vision and powerful flight. B this as a symbol, esp. Of the us. 2 score of two strokes under par at any hole in golf. [latin aquila]
@@ -6995,7 +6934,6 @@ Ebb  —n. Movement of the tide out to sea. —v. (often foll. By away) 1 flow o
 Ebonite  n. Vulcanite. [from *ebony]
 Ebony  —n. Heavy hard dark wood of a tropical tree. —adj. 1 made of ebony. 2 black like ebony. [greek ebenos ebony tree]
 Ebullient  adj. Exuberant.  ebullience n. Ebulliency n. Ebulliently adv. [latin: related to *boil1]
-Ec  abbr. 1 east central. 2 european community.
 Eccentric  —adj. 1 odd or capricious in behaviour or appearance. 2 (also excentric) a not placed, not having its axis placed, centrally. B (often foll. By to) (of a circle) not concentric (to another). C (of an orbit) not circular. —n. 1 eccentric person. 2 disc at the end of a shaft for changing rotatory into backward-and-forward motion.  eccentrically adv. Eccentricity n. [greek: related to *centre]
 Eccles cake  n. Round cake of pastry filled with currants etc. [eccles in n. England]
 Ecclesiastic  —n. Clergyman. —adj. = *ecclesiastical. [greek ekklesia church]
@@ -7027,7 +6965,6 @@ Ectoplasm  n. Supposed viscous substance exuding from the body of a spiritualist
 Ecu  n. (also ecu) (pl. -s) european currency unit. [abbreviation]
 Ecumenical  adj. 1 of or representing the whole christian world. 2 seeking worldwide christian unity.  ecumenically adv. Ecumenism n. [greek oikoumenikos of the inhabited earth]
 Eczema  n. Inflammation of the skin, with itching and discharge. [latin from greek]
-Ed.  Abbr. 1 edited by. 2 edition. 3 editor. 4 educated.
 Edam  n. Round dutch cheese with a red rind. [edam in holland]
 Eddy  —n. (pl. -ies) 1 circular movement of water causing a small whirlpool. 2 movement of wind, smoke, etc. Resembling this. —v. (-ies, -ied) whirl round in eddies. [old english ed- again, back]
 Edelweiss  n. Alpine plant with white flowers. [german, = noble-white]
@@ -7055,7 +6992,6 @@ Educe  v. (-cing) literary bring out or develop from latency.  eduction n. [lat
 Edwardian  —adj. Of or characteristic of the reign of edward vii (1901–10). —n. Person of this period.
 Eel  n. Snakelike fish. [old english]
 Eerie  adj. (eerier, eeriest) gloomy and strange; weird (eerie silence).  eerily adv. Eeriness n. [old english]
-Ef-  see *ex-1.
 Efface  v. (-cing) 1 rub or wipe out (a mark, recollection, etc.). 2 surpass, eclipse. 3 refl. (usu. As self-effacing adj.) Treat oneself as unimportant.  effacement n. [french: related to *face]
 Effect  —n. 1 result or consequence of an action etc. 2 efficacy (had little effect). 3 impression produced on a spectator, hearer, etc. (lights gave a pretty effect; said it just for effect). 4 (in pl.) Property. 5 (in pl.) Lighting, sound, etc., giving realism to a play, film, etc. 6 physical phenomenon (doppler effect; greenhouse effect). —v. Bring about (a change, cure, etc.).  bring (or carry) into effect accomplish. Give effect to make operative. In effect for practical purposes. Take effect become operative. To the effect that the gist being that. To that effect having that result or implication. With effect from coming into operation at (a stated time). [latin: related to *fact]
 Effective  adj. 1 producing the intended result. 2 impressive, striking. 3 actual, existing. 4 operative.  effectively adv. Effectiveness n.
@@ -7095,7 +7031,6 @@ Egress  n. Formal 1 exit. 2 right of going out. [latin egredior -gress- walk out
 Egret  n. A kind of heron with long white feathers. [french aigrette]
 Egyptian  —adj. Of egypt. —n. 1 native of egypt. 2 language of the ancient egyptians.
 Egyptology  n. The study of the language, history, and culture of ancient egypt.  egyptologist n.
-Eh  int. Colloq. 1 expressing enquiry or surprise. 2 inviting assent. 3 asking for repetition or explanation. [instinctive exclamation]
 Eider  n. Any of various large northern ducks. [icelandic]
 Eiderdown  n. Quilt stuffed with soft material, esp. Down.
 Eight  adj. & n. 1 one more than seven. 2 symbol for this (8, viii, viii). 3 size etc. Denoted by eight. 4 eight-oared rowing-boat or its crew. 5 eight o'clock. [old english]
@@ -7207,7 +7142,6 @@ Elver  n. Young eel. [from *eel, *fare]
 Elves  pl. Of *elf.
 Elvish  see *elf.
 Elysium  n. 1 (also elysian fields) (in greek mythology) abode of the blessed after death. 2 place of ideal happiness.  elysian adj. [latin from greek]
-Em  n. Printing unit of measurement equal to the width of an m. [name of the letter m]
 Emaciate  v. (-ting) (esp. As emaciated adj.) Make abnormally thin or feeble.  emaciation n. [latin macies leanness]
 Email  n. (also e-mail) = *electronic mail.
 Emanate  v. (-ting) (usu. Foll. By from) issue or originate (from a source).  emanation n. [latin mano flow]
@@ -7287,7 +7221,6 @@ Emu  n. (pl. -s) large flightless australian bird. [portuguese]
 Emulate  v. (-ting) 1 try to equal or excel. 2 imitate.  emulation n. Emulative adj. Emulator n. [latin aemulus rival]
 Emulsify  v. (-ies, -ied) convert into an emulsion.  emulsification n. Emulsifier n.
 Emulsion paint  n. Water-thinned paint.
-En passant  adv. In passing; casually (mentioned it en passant). [french, = in passing]
 Enable  v. (-ling) 1 (foll. By to + infin.) Give (a person etc.) The means or authority. 2 make possible. 3 esp. Computing make (a device) operational; switch on.
 Enact  v. 1 a ordain, decree. B make (a bill etc.) Law. 2 play (a part on stage or in life).  enactive adj.
 Enactment  n. 1 law enacted. 2 process of enacting.
@@ -7472,7 +7405,6 @@ Eocene  geol. —adj. Of the second epoch of the tertiary period. —n. This epo
 Eolian harp  n. (brit. Aeolian) stringed instrument or toy sounding when the wind passes through it. [latin aeolus wind-god, from greek]
 Eolithic  adj. Of the period preceding the palaeolithic age. [greek eos dawn, lithos stone]
 Eon  var. Of *aeon.
-Ep  abbr. Extended-play (gramophone record).
 Epaulet  n. (brit. Epaulette) ornamental shoulder-piece on a coat etc., esp. On a uniform. [french épaule shoulder]
 Epaulette  n. (us epaulet) ornamental shoulder-piece on a coat etc., esp. On a uniform. [french épaule shoulder]
 Ephedrine  n. Alkaloid drug used to relieve asthma, etc. [ephedra, genus of plants yielding it]
@@ -7548,7 +7480,6 @@ Equity  n. (pl. -ies) 1 fairness. 2 principles of justice used to correct or sup
 Equivalent  —adj. 1 (often foll. By to) equal in value, amount, importance, etc. 2 corresponding. 3 having the same meaning or result. —n. Equivalent thing, amount, etc.  equivalence n. [latin: related to *value]
 Equivocal  adj. 1 of double or doubtful meaning. 2 of uncertain nature. 3 (of a person etc.) Questionable.  equivocally adv. [latin voco call]
 Equivocate  v. (-ting) use ambiguity to conceal the truth.  equivocation n. Equivocator n. [latin: related to *equivocal]
-Er  int. Expressing hesitation. [imitative]
 Era  n. 1 system of chronology reckoning from a noteworthy event (christian era). 2 large period, esp. Regarded historically. 3 date at which an era begins. 4 major division of geological time. [latin, = number (pl. Of aes money)]
 Eradicate  v. (-ting) root out; destroy completely.  eradicable adj. Eradication n. Eradicator n. [latin radix -icis root]
 Erase  v. (-sing) 1 rub out; obliterate. 2 remove all traces of. 3 remove recorded material from (magnetic tape or disk). [latin rado ras- scrape]
@@ -7585,7 +7516,6 @@ Erudite  adj. Learned.  erudition n. [latin eruditus instructed: related to *ru
 Erupt  v. 1 break out suddenly or dramatically. 2 (of a volcano) eject lava etc. 3 (of a rash etc.) Appear on the skin.  eruption n. Eruptive adj. [latin erumpo erupt- break out]
 Erysipelas  n. Disease causing fever and a deep red inflammation of the skin. [latin from greek]
 Erythrocyte  n. Red blood cell. [greek eruthros red, *-cyte]
-Es  symb. Einsteinium.
 Escalate  v. (-ting) 1 increase or develop (usu. Rapidly) by stages. 2 make or become more intense.  escalation n. [from *escalator]
 Escalator  n. Moving staircase consisting of a circulating belt forming steps. [latin scala ladder]
 Escalope  n. Thin slice of boneless meat, esp. Veal. [french, originally = shell]
@@ -7639,7 +7569,6 @@ Estrange  v. (-ging) 1 (usu. In passive; often foll. By from) alienate; make hos
 Estrogen  n. (brit. Oestrogen) 1 sex hormone developing and maintaining female characteristics of the body. 2 this produced artificially for use in medicine. [greek oistros frenzy, *-gen]
 Estrus  n. (also estrum, brit. Oestrus) recurring period of sexual receptivity in many female mammals  oestrous adj. [greek oistros frenzy]
 Estuary  n. (pl. -ies) wide tidal river mouth. [latin aestus tide]
-Et seq.  Abbr. (also et seqq.) And the following (pages etc.). [latin et sequentia]
 Eta  n. Seventh letter of the greek alphabet (h, h). [greek]
 Etc.  Abbr. = *et cetera.
 Etch  v. 1 a reproduce (a picture etc.) By engraving it on a metal plate with acid (esp. To print copies). B engrave (a plate) in this way. 2 practise this craft. 3 (foll. By on, upon) impress deeply (esp. On the mind).  etcher n. [dutch etsen]
@@ -7664,7 +7593,6 @@ Etiology  n. (brit. Aetiology) study of causation or of the causes of disease. 
 Etiquette  n. Conventional rules of social behaviour or professional conduct. [french: related to *ticket]
 Etruscan  —adj. Of ancient etruria in italy. —n. 1 native of etruria. 2 language of etruria. [latin etruscus]
 Etymology  n. (pl. -ies) 1 a derivation and development of a word in form and meaning. B account of these. 2 the study of word origins.  etymological adj. Etymologist n. [greek etumos true]
-Eu-  comb. Form well, easily. [greek]
 Eucalyptus  n. (pl. -tuses or -ti) (also eucalypt pl. -s) 1 tall evergreen australasian tree. 2 its oil, used as an antiseptic etc. [from *eu-, greek kaluptos covered]
 Eucharist  n. 1 christian sacrament in which consecrated bread and wine are consumed. 2 consecrated elements, esp. The bread.  eucharistic adj. [greek, = thanksgiving]
 Eugenics  n.pl. (also treated as sing.) Improvement of the qualities of a race by control of inherited characteristics.  eugenic adj. Eugenically adv. [from *eu-, greek gen- produce]
@@ -7736,7 +7664,6 @@ Evolutionist  n. Person who regards evolution as explaining the origin of specie
 Evolve  v. (-ving) 1 develop gradually and naturally. 2 devise (a theory, plan, etc.). 3 unfold. 4 give off (gas, heat, etc.). [latin volvo volut- roll]
 Ewe  n. Female sheep. [old english]
 Ewer  n. Water-jug with a wide mouth. [latin aqua water]
-Ex gratia  —adv. As a favour; not from (esp. Legal) obligation. —attrib. Adj. Granted on this basis. [latin, = from favour]
 Exacerbate  v. (-ting) 1 make (pain etc.) Worse. 2 irritate (a person).  exacerbation n. [latin acerbus bitter]
 Exact  —adj. 1 accurate; correct in all details (exact description). 2 precise. —v. 1 demand and enforce payment of (money etc.). 2 demand; insist on; require.  exactness n. [latin exigo exact- require]
 Exacting  adj. 1 making great demands. 2 requiring much effort.
@@ -7968,8 +7895,6 @@ Eyesore  n. Ugly thing.
 Eyewash  n. 1 lotion for the eyes. 2 slang nonsense; insincere talk.
 Eyewitness  n. Person who saw a thing happen and can tell of it.
 Eyrie  n. 1 nest of a bird of prey, esp. An eagle, built high up. 2 house etc. Perched high up. [french aire lair, from latin agrum piece of ground]
-F
-Fa  var. Of *fah.
 Fab  adj. Colloq. Fabulous, marvellous. [abbreviation]
 Fable  n. 1 a fictional, esp. Supernatural, story. B moral tale, esp. With animals as characters. 2 legendary tales collectively (in fable). 3 a lie. B thing only supposed to exist. [latin fabula discourse]
 Fabled  adj. Celebrated; legendary.
@@ -8140,8 +8065,6 @@ Fax  —n. 1 transmission of an exact copy of a document etc. Electronically. 2 
 Fay  n. Literary fairy. [latin fata pl., = goddesses of destiny]
 Faze  v. (-zing) (often as fazed adj.) Colloq. Disconcert, disorientate. [origin unknown]
 Fbi  abbr. Federal bureau of investigation.
-Fc  abbr. Football club.
-Fe  abbr. Further education.
 Fealty  n. (pl. -ies) 1 hist. Fidelity to a feudal lord. 2 allegiance. [latin: related to *fidelity]
 Fear  —n. 1 a panic or distress caused by a sense of impending danger, pain, etc. B cause of this. C state of alarm (in fear). 2 (often foll. By of) dread, awe (towards) (fear of heights). 3 danger (little fear of failure). —v. 1 feel fear about or towards. 2 (foll. By for) feel anxiety about (feared for my life). 3 (often foll. By that) foresee or expect with unease, fear, or regret (fear the worst; i fear that you are wrong). 4 (foll. By verbal noun) shrink from (feared meeting his ex-wife). 5 revere (esp. God).  for fear of (or that) to avoid the risk of (or that). No fear colloq. Certainly not! [old english]
 Fearful  adj. 1 (usu. Foll. By of or that) afraid. 2 terrible, awful. 3 colloq. Extreme, esp. Unpleasant (fearful row).  fearfully adv. Fearfulness n.
@@ -8255,7 +8178,6 @@ Feverish  adj. 1 having symptoms of fever. 2 excited, restless.  feverishly adv
 Few and far between  predic. Adj. Scarce.
 Fey  adj. 1 a strange, other-worldly; whimsical. B clairvoyant. 2 scot. Fated to die soon. [old english, = doomed to die]
 Fez  n. (pl. Fezzes) man's flat-topped conical red cap worn by some muslims. [turkish]
-Ff.  Abbr. Following pages etc.
 Fiasco  n. (pl. -s) ludicrous or humiliating failure or breakdown. [italian, = bottle]
 Fiat  n. 1 authorization. 2 decree. [latin, = let it be done]
 Fib  —n. Trivial lie. —v. (-bb-) tell a fib.  fibber n. [perhaps from fible-fable, a reduplication of *fable]
@@ -8437,7 +8359,6 @@ Fizz  —v. 1 make a hissing or spluttering sound. 2 (of a drink) effervesce. �
 Fizzle  —v. (-ling) make a feeble hiss. —n. Such a sound.  fizzle out end feebly. [imitative]
 Fizzy  adj. (-ier, -iest) effervescent.  fizziness n.
 Fjord  var. Of *fiord.
-Fl.  Abbr. 1 floruit. 2 fluid.
 Flab  n. Colloq. Fat; flabbiness. [imitative, or from *flabby]
 Flabbergast  v. (esp. As flabbergasted adj.) Colloq. Astonish; dumbfound. [origin uncertain]
 Flabby  adj. (-ier, -iest) 1 (of flesh etc.) Limp; flaccid. 2 feeble.  flabbiness n. [alteration of flappy: related to *flap]
@@ -8623,8 +8544,6 @@ Flyleaf  n. Blank leaf at the beginning or end of a book.
 Flyover  n. Bridge carrying one road or railway over another.
 Flyweight  n. 1 weight in certain sports between light flyweight and bantamweight, in amateur boxing 48–51 kg. 2 sportsman of this weight.
 Flywheel  n. Heavy wheel on a revolving shaft to regulate machinery or accumulate power.
-Fm  symb. Fermium.
-Fo'c's'le  var. Of *forecastle.
 Foal  —n. Young of a horse or related animal. —v. Give birth to (a foal).  in (or with) foal (of a mare etc.) Pregnant. [old english]
 Foam  —n. 1 mass of small bubbles formed on or in liquid by agitation, fermentation, etc. 2 froth of saliva or sweat. 3 substance resembling these, e.g. Spongy rubber or plastic. —v. Emit or run with foam; froth.  foam at the mouth be very angry.  foamy adj. (-ier, -iest). [old english]
 Fob2  v. (-bb-)  fob off 1 (often foll. By with a thing) deceive into accepting something inferior. 2 (often foll. By on or on to a person) offload (an unwanted thing). [cf. Obsolete fop dupe]
@@ -8861,7 +8780,6 @@ Foxhound  n. A kind of hound bred and trained to hunt foxes.
 Foxtrot  —n. 1 ballroom dance with slow and quick steps. 2 music for this. —v. (-tt-) perform this.
 Foxy  adj. (-ier, -iest) 1 foxlike. 2 sly or cunning. 3 reddish-brown.  foxily adv. Foxiness n.
 Foyer  n. Entrance-hall in a hotel, theatre, etc. [french, = hearth, home, from latin *focus]
-Fr.  Abbr. Franc(s).
 Fracas  n. (pl. Same) noisy disturbance or quarrel. [french from italian]
 Fraction  n. 1 part of a whole number (e.g. 1/2, 0.5). 2 small part, piece, or amount. 3 portion of a mixture obtained by distillation etc.  fractional adj. Fractionally adv. [latin frango fract- break]
 Fractious  adj. Irritable, peevish. [from *fraction in obsolete sense ‘brawling’]
@@ -9016,7 +8934,6 @@ Frustum  n. (pl. -ta or -s) geom. Remaining part of a decapitated cone or pyrami
 Fry2  n.pl. Young or newly hatched fishes. [old norse, = seed]
 Fryer  n. (also frier) 1 person who fries. 2 vessel for frying esp. Fish.
 Frying-pan  n. Shallow pan used in frying.  out of the frying-pan into the fire from a bad situation to a worse one.
-Ft-se  abbr. Financial times stock exchange 100 share index (based on the share values of britain's largest public companies).
 Fuchsia  n. Shrub with drooping red, purple, or white flowers. [fuchs, name of a botanist]
 Fuck-up  n. Coarse slang bungle or muddle.
 Fuddle  —v. (-ling) confuse or stupefy, esp. With alcohol. —n. 1 confusion. 2 intoxication. [origin unknown]
@@ -9107,8 +9024,6 @@ Futurology  n. Forecasting of the future, esp. From present trends.
 Fuze  var. Of *fuse2.
 Fuzz  n. 1 fluff. 2 fluffy or frizzed hair. 3 slang a (prec. By the) the police. B police officer. [probably low german or dutch]
 Fuzzy  adj. (-ier, -iest) 1 like fuzz, fluffy. 2 blurred, indistinct.  fuzzily adv. Fuzziness n.
-Gîte  n. Furnished holiday house in the french countryside. [french]
-Ga  symb. Gallium.
 Gab  n. Colloq. Talk, chatter. [var. Of *gob1]
 Gabardine  n. (also gaberdine) 1 twill-woven cloth, esp. Of worsted. 2 raincoat etc. Made of this. [french gauvardine]
 Gabble  —v. (-ling) talk or utter unintelligibly or too fast. —n. Fast unintelligible talk. [dutch, imitative]
@@ -9281,8 +9196,6 @@ Gazette  —n. 1 newspaper (used in the title). 2 official publication with anno
 Gazetteer  n. Geographical index. [italian: related to *gazette]
 Gazpacho  n. (pl. -s) cold spanish soup. [spanish]
 Gazump  v. Colloq. 1 raise the price of a property after accepting an offer from (a buyer). 2 swindle. [origin unknown]
-Gd  symb. Gadolinium.
-Ge  symb. Germanium.
 Gear lever  n. (also gear shift) lever used to engage or change gear.
 Gearbox  n. 1 set of gears with its casing, esp. In a vehicle. 2 the casing itself.
 Gearing  n. Set or arrangement of gears.
@@ -9396,7 +9309,6 @@ Ghost  —n. 1 supposed apparition of a dead person or animal; disembodied spiri
 Ghosting  n. Appearance of a ‘ghost’ image in a television picture.
 Ghoul  n. 1 person morbidly interested in death etc. 2 evil spirit or phantom. 3 spirit in muslim folklore preying on corpses.  ghoulish adj. Ghoulishly adv. [arabic]
 Ghyll  var. Of *gill3.
-Gi  n. (often attrib.) Soldier in the us army. [abbreviation of government (or general) issue]
 Giant  —n. 1 (fem. Giantess) imaginary or mythical being of human form but superhuman size. 2 person or thing of great size, ability, courage, etc. —attrib. Adj. 1 gigantic. 2 of a very large kind. [greek gigas gigant-]
 Gibber  v. Jabber inarticulately. [imitative]
 Gibberish  n. Unintelligible or meaningless speech; nonsense.
@@ -9537,7 +9449,6 @@ Glycerine  n. (also glycerol, us glycerin) thick sweet colourless liquid used as
 Glycerol  n. = *glycerine.
 Glycogen  n. Polysaccharide serving as a store of carbohydrates, esp. In animal tissues.
 Glycolysis  n. Breakdown of glucose by enzymes with the release of energy.
-Gm  abbr. George medal.
 Gnarled  adj. (of a tree, hands, etc.) Knobbly, twisted, rugged. [var. Of knarled: related to *knurl]
 Gnash  v. 1 grind (the teeth). 2 (of the teeth) strike together. [old norse]
 Gnat  n. Small two-winged biting fly. [old english]
@@ -9548,7 +9459,6 @@ Gnomic  adj. Of aphorisms; sententious. [greek gnome opinion]
 Gnomon  n. Rod or pin etc. On a sundial, showing the time by its shadow. [greek, = indicator]
 Gnostic  —adj. 1 of knowledge; having special mystical knowledge. 2 (gnostic) concerning the gnostics. —n. (gnostic) (usu. In pl.) Early christian heretic claiming mystical knowledge.  gnosticism n. [greek gnosis knowledge]
 Gnu  n. (pl. Same or -s) oxlike antelope. [bushman nqu]
-Go-getter  n. Colloq. Aggressively enterprising person.
 Goad  —v. 1 urge on with a goad. 2 (usu. Foll. By on, into) irritate; stimulate. —n. 1 spiked stick used for urging cattle forward. 2 anything that torments or incites. [old english]
 Goal  n. 1 object of ambition or effort; destination. 2 a structure into or through which the ball has to be sent to score in certain games. B point won. 3 point marking the finish of a race. [origin unknown]
 Goalie  n. Colloq. = *goalkeeper.
@@ -9656,8 +9566,6 @@ Government  n. 1 act or manner of governing. 2 system by which a state is govern
 Governor-general  n. Representative of the crown in a commonwealth country that regards the queen as head of state.
 Gown  n. 1 loose flowing garment, esp. A woman's long dress. 2 official robe of an alderman, judge, cleric, academic, etc. 3 surgeon's overall. [latin gunna fur]
 Goy  n. (pl. -im or -s) jewish name for a non-jew. [hebrew, = people]
-Gp  abbr. General practitioner.
-Gr  abbr. (also gr.) 1 gram(s). 2 grains. 3 gross.
 Grab  —v. (-bb-) 1 seize suddenly. 2 take greedily or unfairly. 3 slang attract the attention of, impress. 4 (foll. By at) snatch at. 5 (of brakes) act harshly or jerkily. —n. 1 sudden clutch or attempt to seize. 2 mechanical device for clutching. [low german or dutch]
 Grace-note  n. Mus. Extra note as an embellishment.
 Graceful  adj. Having or showing grace or elegance.  gracefully adv. Gracefulness n.
@@ -9879,7 +9787,6 @@ Grummet  var. Of *grommet.
 Grumpy  adj. (-ier, -iest) morosely irritable.  grumpily adv. Grumpiness n. [imitative]
 Grunt  —n. 1 low guttural sound made by a pig. 2 similar sound. —v. 1 make a grunt. 2 make a similar sound, esp. To express discontent. 3 utter with a grunt. [old english, imitative]
 Gryphon  var. Of *griffin.
-Gt  n. High-performance saloon car. [italian gran turismo great touring]
 Guano  n. (pl. -s) 1 excrement of sea birds, used as manure. 2 artificial manure, esp. That made from fish. [spanish from quechua]
 Guarantee  —n. 1 a formal promise or assurance, esp. That something is of a specified quality and durability. B document giving such an undertaking. 2 = *guaranty. 3 person making a guaranty or giving a security. —v. (-tees, -teed) 1 a give or serve as a guarantee for. B provide with a guarantee. 2 give a promise or assurance. 3 (foll. By to) secure the possession of (a thing) for a person. [related to *warrant]
 Guarantor  n. Person who gives a guarantee or guaranty.
@@ -9991,8 +9898,6 @@ Gyrfalcon  n. Large falcon of the northern hemisphere. [french from old norse]
 Gyro  n. (pl. -s) colloq. = *gyroscope. [abbreviation]
 Gyrocompass  n. Compass giving true north and bearings from it by means of a gyroscope.
 Gyroscope  n. Rotating wheel whose axis is free to turn but maintains a fixed direction unless perturbed, esp. Used for stabilization or with the compass in an aircraft, ship, etc.
-H-bomb  n. = *hydrogen bomb. [from *h3]
-Ha1  (also hah) —int. Expressing surprise, derision, triumph, etc. (cf. *ha ha). —v. In hum and ha: see *hum. [imitative]
 Habeas corpus  n. Writ requiring a person to be brought before a judge or into court, esp. To investigate the lawfulness of his or her detention. [latin, = you must have the body]
 Haberdasher  n. Dealer in dress accessories and sewing-goods.  haberdashery n. (pl. -ies). [probably anglo-french]
 Habiliment  n. (usu. In pl.) Archaic clothes. [french from habiller fit out]
@@ -10262,9 +10167,7 @@ Haze  n. 1 thin atmospheric vapour. 2 mental obscurity or confusion. [back-forma
 Hazel  n. 1 hedgerow shrub bearing round brown edible nuts. 2 greenish-brown. [old english]
 Hazelnut  n. Nut of the hazel.
 Hazy  adj. (-ier, -iest) 1 misty. 2 vague, indistinct. 3 confused, uncertain.  hazily adv. Haziness n. [origin unknown]
-Hb  abbr. (of pencil-lead) hard black.
 Hcf  abbr. Highest common factor.
-He'll  contr. He will; he shall.
 Head start  n. Advantage granted or gained at an early stage.
 Headache  n. 1 continuous pain in the head. 2 colloq. Worrying problem.  headachy adj.
 Headband  n. Band worn round the head as decoration or to confine the hair.
@@ -10492,9 +10395,6 @@ Hexagram  n. Figure formed by two intersecting equilateral triangles.
 Hexameter  n. Line of verse with six metrical feet.
 Hey presto!  Int. Conjuror's phrase on completing a trick.
 Heyday  n. Time of greatest success or prosperity. [low german]
-Hf  abbr. High frequency.
-Hg  abbr. Hectogram(s).
-Hi-tech  adj. = *high-tech. [abbreviation]
 Hiatus  n. (pl. -tuses) 1 break or gap in a series or sequence. 2 break between two vowels coming together but not in the same syllable, as in though oft the ear. [latin hio gape]
 Hibernate  v. (-ting) (of an animal) spend the winter in a dormant state.  hibernation n. [latin hibernus wintry]
 Hibernian  archaic poet. —adj. Of ireland. —n. Native of ireland. [latin hibernia ireland]
@@ -10582,8 +10482,6 @@ Hitherto  adv. Until this time, up to now.
 Hittite  —n. Member or language of an ancient people of asia minor and syria. —adj. Of the hittites. [hebrew]
 Hive  n. Beehive.  hive off (-ving) separate from a larger group. [old english]
 Hives  n.pl. Skin-eruption, esp. Nettle-rash. [origin unknown]
-Hm  abbr. Her (or his) majesty('s).
-Ho  symb. Holmium.
 Hoar-frost  n. Frozen water vapour on vegetation etc. [old english]
 Hoard  —n. Stock or store (esp. Of money or food). —v. Amass and store.  hoarder n. [old english]
 Hoarding  n. 1 large, usu. Wooden, structure used to carry advertisements etc. 2 temporary fence round a building site etc. [obsolete hoard from french: hourd]
@@ -10820,10 +10718,7 @@ Howler  n. Colloq. Glaring mistake.
 Howsoever  adv. Formal 1 in whatsoever way. 2 to whatsoever extent.
 Hoy  int. Used to call attention. [natural cry]
 Hoyden  n. Boisterous girl. [dutch heiden: related to *heathen]
-Hq  abbr. Headquarters.
-Hr.  Abbr. Hour.
 Hrs.  Abbr. Hours.
-Ht  abbr. High tension.
 Hub  n. 1 central part of a wheel, rotating on or with the axle. 2 centre of interest, activity, etc. [origin uncertain]
 Hubble-bubble  n. 1 simple hookah. 2 bubbling sound. 3 confused talk. [imitative]
 Hubbub  n. 1 confused noise of talking. 2 disturbance. [perhaps of irish origin]
@@ -11012,7 +10907,6 @@ Hysteresis  n. Phenomenon whereby changes in an effect lag behind changes in its
 Hysteria  n. 1 wild uncontrollable emotion or excitement. 2 functional disturbance of the nervous system, of psychoneurotic origin. [greek hustera womb]
 Hysteric  n. 1 (in pl.) A fit of hysteria. B colloq. Overwhelming laughter (we were in hysterics). 2 hysterical person.
 Hysterical  adj. 1 of or affected with hysteria. 2 uncontrollably emotional. 3 colloq. Extremely funny.  hysterically adv.
-I 
 Iambic  prosody —adj. Of or using iambuses. —n. (usu. In pl.) Iambic verse.
 Iambus  n. (pl. -buses or -bi) metrical foot consisting of one short followed by one long syllable (&iambus.). [greek, = lampoon]
 Iba  abbr. Independent broadcasting authority.
@@ -11037,7 +10931,6 @@ Iconography  n. 1 the illustration of a subject by drawings or figures. 2 the st
 Iconostasis  n. (pl. -stases) (in the eastern church) screen bearing icons. [greek: related to *icon]
 Icosahedron  n. Solid figure with twenty faces. [greek eikosi twenty, hedra base]
 Icy  adj. (-ier, -iest) 1 very cold. 2 covered with or abounding in ice. 3 (of a tone or manner) unfriendly, hostile.  icily adv. Iciness n.
-Id  n. Person's inherited unconscious psychological impulses. [latin, = that]
 Idea  n. 1 plan etc. Formed by mental effort (an idea for a book). 2 a mental impression or concept. B vague belief or fancy (had an idea you were married). 3 intention or purpose (the idea is to make money). 4 archetype or pattern. 5 ambition or aspiration (have ideas; put ideas into a person's head).  have no idea colloq. 1 not know at all. 2 be completely incompetent. Not one's idea of colloq. Not what one regards as (not my idea of a holiday). [greek, = form, kind]
 Ideal  —adj. 1 answering to one's highest conception; perfect. 2 existing only in idea; visionary. —n. Perfect type, thing, concept, principle, etc., esp. As a standard to emulate. [french: related to *idea]
 Idealism  n. 1 forming or pursuing ideals, esp. Unrealistically. 2 representation of things in ideal form. 3 system of thought in which objects are held to be in some way dependent on the mind.  idealist n. Idealistic adj. Idealistically adv.
@@ -11063,7 +10956,6 @@ Idolater  n. 1 worshipper of idols. 2 devoted admirer.  idolatrous adj. Idolatr
 Idolize  v. (also -ise) (-zing or -sing) 1 venerate or love excessively. 2 make an idol of.  idolization n.
 Idyll  n. 1 short description, esp. In verse, of a peaceful or romantic, esp. Rural, scene or incident. 2 such a scene or incident. [greek eidullion]
 Idyllic  adj. 1 blissfully peaceful and happy. 2 of or like an idyll.  idyllically adv.
-If  —conj. 1 introducing a conditional clause: a on the condition or supposition that; in the event that (if he comes i will tell him; if you are tired we can rest). B (with past tense) implying that the condition is not fulfilled (if i knew i would say). 2 even though (i'll finish it, if it takes me all day). 3 whenever (if i am not sure i ask). 4 whether (see if you can find it). 5 expressing a wish, surprise, or request (if i could just try!; if it isn't my old hat!; if you wouldn't mind?). —n. Condition, supposition (too many ifs about it).  if only 1 even if for no other reason than (i'll come if only to see her). 2 (often ellipt.) Expression of regret; i wish that (if only i had thought of it). [old english]
 Iffy  adj. (-ier, -iest) colloq. Uncertain; dubious.
 Igloo  n. Eskimo dome-shaped dwelling, esp. Of snow. [eskimo, = house]
 Igneous  adj. 1 of fire; fiery. 2 (esp. Of rocks) volcanic. [latin ignis fire]
@@ -11080,7 +10972,6 @@ Iguana  n. Large american, w. Indian, or pacific lizard with a dorsal crest. [sp
 Iguanodon  n. Large plant-eating dinosaur with small forelimbs. [from *iguana, which it resembles, after mastodon etc.]
 Ikebana  n. Art of japanese flower arrangement. [japanese, = living flowers]
 Ikon  var. Of *icon.
-Il-  prefix assim. Form of *in-1, *in-2 before l.
 Ileum  n. (pl. Ilea) third and last portion of the small intestine. [latin ilium]
 Ilex  n. (pl. -es) 1 tree or shrub of the genus including the common holly. 2 holm-oak. [latin]
 Iliac  adj. Of the lower body (iliac artery). [latin ilia flanks]
@@ -11102,7 +10993,6 @@ Illustrate  v. (-ting) 1 a provide (a book etc.) With pictures. B elucidate by d
 Illustration  n. 1 drawing or picture in a book, magazine, etc. 2 explanatory example. 3 illustrating.
 Illustrative  adj. (often foll. By of) explanatory; exemplary.
 Illustrious  adj. Distinguished, renowned. [latin illustris: related to *illustrate]
-Im-  prefix assim. Form of *in-1, *in-2 before b, m, or p.
 Image  —n. 1 representation of an object, e.g. A statue. 2 reputation or persona of a person, company, etc. 3 appearance as seen in a mirror or through a lens. 4 mental picture or idea. 5 simile or metaphor. —v. (-ging) 1 make an image of; portray. 2 reflect, mirror. 3 describe or imagine vividly.  be the image of be or look exactly like. [latin imago imagin-]
 Imagery  n. 1 figurative illustration, esp. In literature. 2 images; statuary, carving. 3 mental images collectively.
 Imaginary  adj. 1 existing only in the imagination. 2 math. Being the square root of a negative quantity. [latin: related to *image]
@@ -11264,7 +11154,6 @@ Impunity  n. Exemption from punishment, bad consequences, etc.  with impunity w
 Impure  adj. 1 adulterated. 2 dirty. 3 unchaste.
 Impurity  n. (pl. -ies) 1 being impure. 2 impure thing or part.
 Impute  v. (-ting) (foll. By to) attribute (a fault etc.) To.  imputation n. [latin puto reckon]
-In-2  prefix (also il-, im-, ir-) in, on, into, towards, within (induce; influx; insight; intrude). [from *in, or from latin in (prep.)]
 Inability  n. 1 being unable. 2 lack of power or means.
 Inaccessible  adj. 1 not accessible. 2 (of a person) unapproachable.  inaccessibility n.
 Inaccurate  adj. Not accurate.  inaccuracy n. (pl. -ies). Inaccurately adv.
@@ -11996,8 +11885,6 @@ Iota  n. 1 ninth letter of the greek alphabet (i, i). 2 (usu. With neg.) A jot. 
 Iou  n. Signed document acknowledging a debt. [from i owe you]
 Ipecacuanha  n. Root of a s. American shrub, used as an emetic and purgative. [portuguese from s. American indian, = emetic creeper]
 Ipso facto  adv. By that very fact. [latin]
-Iq  abbr. Intelligence quotient.
-Ir-  prefix assim. Form of *in-1, *in-2 before r.
 Ira  abbr. Irish republican army.
 Iranian  —adj. 1 of iran (formerly persia). 2 of the group of languages including persian. —n. 1 native or national of iran. 2 person of iranian descent.
 Iraqi  —adj. Of iraq. —n. (pl. -s) 1 a native or national of iraq. B person of iraqi descent. 2 the form of arabic spoken in iraq.
@@ -12054,7 +11941,6 @@ Irritable  adj. 1 easily annoyed. 2 (of an organ etc.) Very sensitive to contact
 Irritant  —adj. Causing irritation. —n. Irritant substance.
 Irritate  v. (-ting) 1 excite to anger; annoy. 2 stimulate discomfort in (a part of the body). 3 biol. Stimulate (an organ) to action.  irritating adj. Irritation n. Irritative adj. [latin irrito]
 Irrupt  v. (foll. By into) enter forcibly or violently.  irruption n. [latin: related to *rupture]
-Is  3rd sing. Present of *be.
 Isinglass  n. 1 gelatin obtained from fish, esp. Sturgeon, and used in making jellies, glue, etc. 2 mica. [dutch huisenblas sturgeon's bladder]
 Islam  n. 1 the religion of the muslims, proclaimed by muhammad. 2 the muslim world.  islamic adj. [arabic, = submission (to god)]
 Island  n. 1 piece of land surrounded by water. 2 = *traffic island. 3 detached or isolated thing. [old english igland; first syllable influenced by *isle]
@@ -12079,7 +11965,6 @@ Israeli  —adj. Of the modern state of israel. —n. (pl. -s) 1 native or natio
 Israelite  n. Hist. Native of ancient israel; jew. [hebrew]
 Issue  —n. 1 a act of giving out or circulating shares, notes, stamps, etc. B quantity of coins, copies of a newspaper, etc., circulated at one time. C each of a regular series of a magazine etc. (the may issue). 2 a outgoing, outflow. B way out, outlet, esp. The place of the emergence of a stream etc. 3 point in question; important subject of debate or litigation. 4 result; outcome. 5 law children, progeny (without male issue). —v. (issues, issued, issuing) 1 literary go or come out. 2 a send forth; publish; put into circulation. B supply, esp. Officially or authoritatively (foll. By to, with: issued passports to them; issued them with passports). 3 a (often foll. By from) be derived or result. B (foll. By in) end, result. 4 (foll. By from) emerge from a condition.  at issue under discussion; in dispute. Join (or take) issue (foll. By with a person etc., about, on, over a subject) disagree or argue. [latin exitus: related to *exit]
 Isthmus  n. (pl. -es) narrow piece of land connecting two larger bodies of land. [greek isthmos]
-It'll  contr. Colloq. It will; it shall.
 Italian  —n. 1 a native or national of italy. B person of italian descent. 2 romance language of italy. —adj. Of or relating to italy.
 Italianate  adj. Of italian style or appearance.
 Italic  —adj. 1 a of the sloping kind of letters now used esp. For emphasis and in foreign words. B (of handwriting) compact and pointed like early italian handwriting. 2 (italic) of ancient italy. —n. 1 letter in italic type. 2 this type. [latin italicus: related to *italian]
@@ -12097,7 +11982,6 @@ Itself  pron. Emphatic and refl. Form of *it.  be itself see *oneself. By itsel
 Iud  abbr. Intrauterine (contraceptive) device.
 Ivory tower  n. Seclusion or withdrawal from the harsh realities of life (often attrib.: ivory tower professors).
 Ivy  n. (pl. -ies) climbing evergreen shrub with shiny five-angled leaves. [old english]
-J1  n. (also j) (pl. Js or j's) tenth letter of the alphabet.
 Jab  —v. (-bb-) 1 a poke roughly. B stab. 2 (foll. By into) thrust (a thing) hard or abruptly. —n. 1 abrupt blow, thrust, or stab. 2 colloq. Hypodermic injection. [var. Of job = prod]
 Jabber  —v. 1 chatter volubly. 2 utter (words) in this way. —n. Chatter; gabble. [imitative]
 Jabot  n. Ornamental frill etc. On the front of a shirt or blouse. [french]
@@ -12286,8 +12170,6 @@ Jowl1  n. 1 jaw or jawbone. 2 cheek (cheek by jowl). [old english]
 Joy  n. 1 (often foll. By at, in) pleasure; extreme gladness. 2 thing causing joy. 3 colloq. Satisfaction, success (got no joy).  joyful adj. Joyfully adv. Joyfulness n. Joyless adj. Joyous adj. Joyously adv. [french joie from latin gaudium]
 Joyride  colloq. —n. Pleasure ride in esp. A stolen car. —v. (-ding; past -rode; past part -ridden) go for a joyride.  joyrider n.
 Joystick  n. 1 colloq. Control column of an aircraft. 2 lever controlling movement of an image on a vdu screen etc.
-Jr.  Abbr. Junior.
-Ju-jutsu  var. Of *ju-jitsu.
 Jubilant  adj. Exultant, rejoicing.  jubilance n. Jubilantly adv. Jubilation n. [latin jubilo shout]
 Jubilee  n. 1 anniversary, esp. The 25th or 50th. 2 time of rejoicing. [hebrew, ultimately, = ram's-horn trumpet]
 Judaic  adj. Of or characteristic of the jews. [greek: related to *jew]
@@ -12352,7 +12234,6 @@ Jute  n. 1 fibre from the bark of an e. Indian plant, used esp. For sacking, mat
 Juvenile court  n. Court for children under 17.
 Juvenilia  n.pl. Author's or artist's youthful works.
 Juxtapose  v. (-sing) 1 place (things) side by side. 2 (foll. By to, with) place (a thing) beside another.  juxtaposition n. Juxtapositional adj. [latin juxta next, pono put]
-K 
 Kaffir  n. 1 hist. Member or language of a s. African people of the bantu family. 2 s.afr. Offens. Any black african. [arabic, = infidel]
 Kafkaesque  adj. Impenetrably oppressive or nightmarish, as in the fiction of franz kafka.
 Kaftan  var. Of *caftan.
@@ -12376,7 +12257,6 @@ Karma  n. Buddhism & hinduism person's actions in previous lives, believed to de
 Kauri  n. (pl. -s) coniferous new zealand tree yielding timber and resin. [maori]
 Kayak  n. 1 eskimo one-man canoe of wood and sealskins. 2 small covered canoe. [eskimo]
 Kazoo  n. Toy musical instrument into which the player sings or hums. [origin uncertain]
-Kc  abbr. King's counsel.
 Kea  n. New zealand parrot with brownish-green and red plumage. [maori, imitative]
 Kebab  n. Pieces of meat, vegetables, etc. Cooked on a skewer (cf. *doner kebab, *shish kebab). [urdu from arabic]
 Kedge  —v. (-ging) 1 move (a ship) with a hawser attached to a small anchor. 2 (of a ship) move in this way. —n. (in full kedge-anchor) small anchor for this purpose. [origin uncertain]
@@ -12427,7 +12307,6 @@ Keypunch  —n. Device for recording data by means of punched holes or notches o
 Keystone  n. 1 central principle of a system, policy, etc. 2 central locking stone in an arch.
 Keystroke  n. Single depression of a key on a keyboard, esp. As a measure of work.
 Keyword  n. 1 key to a cipher etc. 2 a word of great significance. B significant word used in indexing.
-Kg  abbr. Kilogram(s).
 Khaki  —adj. Dull brownish-yellow. —n. (pl. -s) 1 khaki fabric or uniform. 2 dull brownish-yellow colour. [urdu, = dusty]
 Khan  n. Title of rulers and officials in central asia, afghanistan, etc.  khanate n. [turki, = lord]
 Kibbutz  n. (pl. Kibbutzim) communal esp. Farming settlement in israel. [hebrew, = gathering]
@@ -12505,11 +12384,9 @@ Kittenish  adj. Playful, lively, or flirtatious.
 Kittiwake  n. A kind of small seagull. [imitative of its cry]
 Kitty2  n. (pl. -ies) childish name for a kitten or cat.
 Kiwi  n. (pl. -s) 1 flightless long-billed new zealand bird. 2 (kiwi) colloq. New zealander. [maori]
-Kl  abbr. Kilolitre(s).
 Klaxon  n. Propr. Horn or warning hooter. [name of the manufacturer]
 Kleenex  n. (pl. Same or -nexes) propr. Disposable paper handkerchief.
 Kleptomania  n. Obsessive apparently motiveless urge to steal.  kleptomaniac n. & adj. [greek kleptes thief]
-Km  abbr. Kilometre(s).
 Knack  n. 1 acquired faculty or trick of doing a thing. 2 habit (a knack of offending people). [origin unknown]
 Knacker  —n. Buyer of useless horses etc. For slaughter, or of old houses, ships, etc. For the materials. —v. Slang (esp. As knackered adj.) Exhaust, wear out. [origin unknown]
 Knapsack  n. Soldier's or hiker's usu. Canvas bag carried on the back. [german knappen bite, *sack1]
@@ -12552,7 +12429,6 @@ Knowledgeable  adj. (also knowledgable) well-informed; intelligent.  knowledgea
 Known  past part. Of *know.
 Knuckle sandwich  n. Slang punch in the mouth.
 Knurl  n. Small projecting knob, ridge, etc. [low german or dutch]
-Ko  abbr. Knockout.
 Koala  n. (in full koala bear) small australian bearlike marsupial with thick grey fur. [aboriginal]
 Kohl  n. Black powder used as eye make-up, esp. In eastern countries. [arabic]
 Kohlrabi  n. (pl. -bies) cabbage with an edible turnip-like swollen stem. [german, from italian cavolo rapa]
@@ -12567,7 +12443,6 @@ Koran  n. Islamic sacred book. [arabic, = recitation]
 Korean  —n. 1 native or national of n. Or s. Korea. 2 language or korea. —adj. Of korea, its people, or language.
 Kosher  —adj. 1 (of food or a food-shop) fulfilling the requirements of jewish law. 2 colloq. Correct, genuine, legitimate. —n. Kosher food or shop. [hebrew, = proper]
 Kowtow  —n. Hist. Chinese custom of kneeling with the forehead touching the ground, esp. In submission. —v. 1 (usu. Foll. By to) act obsequiously. 2 hist. Perform the kowtow. [chinese, = knock the head]
-Kr  symb. Krypton.
 Kraal  n. S.afr. 1 village of huts enclosed by a fence. 2 enclosure for cattle or sheep. [afrikaans from portuguese curral, of hottentot origin]
 Kraut  n. Slang offens. German. [shortening of *sauerkraut]
 Kremlin  n. 1 (the kremlin) a citadel in moscow. B russian government housed within it. 2 citadel within a russian town. [russian]
@@ -12576,18 +12451,13 @@ Krona  n. 1 (pl. Kronor) chief monetary unit of sweden. 2 (pl. Kronur) chief mon
 Krone  n. (pl. Kroner) chief monetary unit of denmark and norway. [danish and norwegian, = *crown]
 Krummhorn  n. (also crumhorn) medieval wind instrument. [german]
 Krypton  n. Inert gaseous element used in fluorescent lamps etc. [greek krupto hide]
-Kt.  Abbr. Knight.
 Kudos  n. Colloq. Glory; renown. [greek]
 Kudu  n. (also koodoo) (pl. Same or -s) african antelope with white stripes and corkscrew-shaped ridged horns. [xhosa]
 Kufic  (also cufic) —n. Early angular form of the arabic alphabet used esp. In decorative inscriptions. —adj. Of or in this script. [from kufa, city in iraq]
 Kumquat  n. (also cumquat) 1 small orange-like fruit. 2 shrub or small tree yielding this. [chinese kin kü gold orange]
 Kung fu  n. Chinese form of karate. [chinese]
 Kurchatovium  n. = *rutherfordium. [kurchatov, name of a russian physicist]
-Kv  abbr. Kilovolt(s).
-Kw  abbr. Kilowatt(s).
 Kyle  n. (in scotland) narrow channel, strait. [gaelic caol strait]
-L.s.d.  N. (also £.s.d.) 1 hist. Pounds, shillings, and pence (in former british currency). 2 money, riches. [latin librae, solidi, denarii]
-La-di-da  adj. Colloq. Pretentious or snobbish, esp. In manner or speech. [imitative]
 Lab  n. Colloq. Laboratory. [abbreviation]
 Label  —n. 1 piece of paper etc. Attached to an object to give information about it. 2 short classifying phrase applied to a person etc. 3 logo, title, or trademark of a company. —v. (-ll-; us -l-) 1 attach a label to. 2 (usu. Foll. By as) assign to a category. 3 replace (an atom) by an atom of a usu. Radioactive isotope as a means of identification. [french]
 Labial  —adj. 1 a of the lips. B of, like, or serving as a lip. 2 (of a sound) requiring partial or complete closure of the lips. —n. Labial sound (e.g. P, m, v). [latin labia lips]
@@ -12810,10 +12680,8 @@ Layout  n. 1 way in which land, a building, printed matter, etc., is arranged or
 Laze  —v. (-zing) 1 spend time idly. 2 (foll. By away) pass (time) idly. —n. Spell of lazing. [back-formation from *lazy]
 Lazy  adj. (-ier, -iest) 1 disinclined to work, doing little work. 2 of or inducing idleness.  lazily adv. Laziness n. [perhaps from low german]
 Lazybones  n. (pl. Same) colloq. Lazy person.
-Lb  abbr. Pound(s) (weight). [latin libra]
 Lcd  abbr. 1 liquid crystal display. 2 lowest (or least) common denominator.
 Lcm  abbr. Lowest (or least) common multiple.
-Ld.  Abbr. Lord.
 Lea  n. Poet. Meadow, field. [old english]
 Leach  v. 1 make (a liquid) percolate through some material. 2 subject (bark, ore, ash, or soil) to the action of percolating fluid. 3 (foll. By away, out) remove (soluble matter) or be removed in this way. [old english]
 Lead-in  n. Introduction, opening, etc.
@@ -12974,8 +12842,6 @@ Lexical  adj. 1 of the words of a language. 2 of or as of a lexicon. [greek lexi
 Lexicography  n. Compiling of dictionaries.  lexicographer n. [from *lexicon, *-graphy]
 Lexicon  n. 1 dictionary, esp. Of greek, hebrew, syriac, or arabic. 2 vocabulary of a person etc. [greek lexis word]
 Leyden jar  n. Early capacitor consisting of a glass jar with layers of metal foil on the outside and inside. [leyden (now leiden) in holland]
-Lf  abbr. Low frequency.
-Li  symb. Lithium.
 Liability  n. (pl. -ies) 1 being liable. 2 troublesome responsibility; handicap. 3 (in pl.) Debts etc. For which one is liable.
 Liable  predic. Adj. 1 legally bound. 2 (foll. By to) subject to. 3 (foll. By to + infin.) Under an obligation. 4 (foll. By to) exposed or open to (something undesirable). 5 (foll. By to + infin.) Apt, likely (it is liable to rain). 6 (foll. By for) answerable. [french lier bind, from latin ligo]
 Liaise  v. (-sing) (foll. By with, between) colloq. Establish cooperation, act as a link. [back-formation from *liaison]
@@ -13184,11 +13050,8 @@ Livestock  n. (usu. Treated as pl.) Animals on a farm, kept for use or profit.
 Livid  adj. 1 colloq. Furious. 2 of a bluish leaden colour (livid bruise). [latin]
 Living wage  n. Wage on which one can live without privation.
 Lizard  n. Reptile with usu. A long body and tail, four legs, and a rough or scaly hide. [latin lacertus]
-Ll b  abbr. Bachelor of laws. [latin legum baccalaureus]
 Llama  n. S. American ruminant kept as a beast of burden and for its soft woolly fleece. [spanish from quechua]
 Lloyd's  n. Incorporated society of underwriters in london. [lloyd, proprietor of the coffee-house where the society originally met]
-Ln  abbr. Natural logarithm.
-Lo  int. Archaic look.  lo and behold joc. Formula introducing mention of a surprising fact. [old english]
 Loach  n. (pl. Same or -es) small freshwater fish. [french]
 Load  —n. 1 a what is carried or to be carried. B amount usu. Or actually carried (often in comb.: lorry-load of bricks). 2 burden or commitment of work, responsibility, care, etc. 3 colloq. A (in pl.; often foll. By of) plenty, a lot (loads of money, people). B (a load of) a quantity (a load of nonsense). 4 amount of power carried by an electric circuit or supplied by a generating station. —v. 1 a put a load on or aboard. B place (a load) aboard a ship, on a vehicle, etc. 2 (often foll. By up) (of a vehicle or person) take a load aboard. 3 (often foll. By with) burden, strain (loaded with food). 4 (also load up) (foll. By with) overburden, overwhelm (loaded us with work, with abuse). 5 a put ammunition in (a gun), film in (a camera), a cassette in (a tape recorder), a program in (a computer), etc. B put (a film, cassette, etc.) Into a device. 6 give a bias to.  get a load of slang take note of. [old english, = way]
 Loaded  adj. 1 slang a rich. B drunk. C us drugged. 2 (of dice etc.) Weighted. 3 (of a question or statement) carrying some hidden implication.
@@ -13352,9 +13215,6 @@ Lowly  adj. (-ier, -iest) humble; unpretentious.  lowliness n.
 Loyal  adj. 1 (often foll. By to) faithful. 2 steadfast in allegiance etc.  loyally adv. Loyalty n. (pl. -ies). [latin: related to *legal]
 Loyalist  n. 1 person who remains loyal to the legitimate sovereign etc. 2 (loyalist) (esp. Extremist) supporter of union between great britain and northern ireland.  loyalism n.
 Lozenge  n. 1 rhombus. 2 small sweet or medicinal tablet to be dissolved in the mouth. 3 lozenge-shaped object. [french]
-Lp  abbr. Long-playing (record).
-Lt.  Abbr. 1 lieutenant. 2 light.
-Lu  symb. Lutetium.
 Lubber  n. Clumsy fellow, lout. [origin uncertain]
 Lubricant  n. Substance used to reduce friction.
 Lubricate  v. (-ting) 1 apply oil or grease etc. To. 2 make slippery.  lubrication n. Lubricator n. [latin lubricus slippery]
@@ -13424,7 +13284,6 @@ Luxuriant  adj. 1 growing profusely. 2 exuberant. 3 florid.  luxuriance n. Luxu
 Luxuriate  v. (-ting) 1 (foll. By in) take self-indulgent delight in, enjoy as a luxury. 2 relax in comfort.
 Luxurious  adj. 1 supplied with luxuries. 2 extremely comfortable. 3 fond of luxury.  luxuriously adv. [latin: related to *luxury]
 Luxury  n. (pl. -ies) 1 choice or costly surroundings, possessions, etc. 2 thing giving comfort or enjoyment but not essential. 3 (attrib.) Comfortable and expensive (luxury flat). [latin luxus abundance]
-Lv  abbr. Luncheon voucher.
 Lych-gate  var. Of *lich-gate.
 Lychee  n. (also litchi, lichee) 1 sweet white juicy fruit in a brown skin. 2 tree, orig. From china, bearing this. [chinese]
 Lye  n. 1 water made alkaline with wood ashes. 2 any alkaline solution for washing. [old english]
@@ -13440,8 +13299,6 @@ Lyrical  adj. 1 = *lyric. 2 resembling, or using language appropriate to, lyric 
 Lyricism  n. Quality of being lyric.
 Lyricist  n. Writer of (esp. Popular) lyrics.
 Lysergic acid diethylamide  n. = *lsd. [from hydrolysis, ergot, *-ic]
-M  abbr. (also m.) 1 male. 2 masculine. 3 married. 4 mile(s). 5 metre(s). 6 million(s). 7 minute(s). 8 milli-.
-Ma  abbr. Master of arts.
 Macédoine  n. Mixed vegetables or fruit, esp. Diced or jellied. [french]
 Macabre  adj. Grim, gruesome. [french]
 Macadam  n. 1 broken stone as material for road-making. 2 = *tarmacadam.  macadamize v. (also -ise) (-zing or -sing). [mcadam, name of a surveyor]
@@ -13915,12 +13772,8 @@ Mayoress  n. 1 woman mayor. 2 wife or official consort of a mayor.
 Maypole  n. Decorated pole for dancing round on may day.
 Maze  n. 1 network of paths and hedges designed as a puzzle for those who enter it. 2 labyrinth. 3 confused network, mass, etc. [related to *amaze]
 Mazurka  n. 1 lively polish dance in triple time. 2 music for this. [french or german from polish]
-Mb  abbr. 1 bachelor of medicine. 2 computing megabyte. [sense 1 from latin medicinae baccalaureus]
-Mc  abbr. 1 master of ceremonies. 2 military cross. 3 member of congress.
 Mccarthyism, mccoy  see at macc-.
 Mccoy  n.  the real mccoy colloq. The real thing; the genuine article. [origin uncertain]
-Md  abbr. 1 doctor of medicine. 2 managing director. [sense 1 from latin medicinae doctor]
-Me  abbr. Myalgic encephalomyelitis, a condition with prolonged flu-like symptoms and depression.
 Mea culpa  —n. Acknowledgement of error. —int. Expressing this. [latin, = by my fault]
 Mead  n. Alcoholic drink of fermented honey and water. [old english]
 Meadow  n. 1 piece of grassland, esp. One used for hay. 2 low marshy ground, esp. Near a river.  meadowy adj. [old english]
@@ -14188,8 +14041,6 @@ Mexican  —n. 1 native or national of mexico. 2 person of mexican descent. —a
 Mezzanine  n. Storey between two others (usu. Between the ground and first floors). [italian: related to *median]
 Mezzo piano  adj. & adv. Fairly soft(ly).
 Mezzotint  n. 1 method of printing or engraving in which a plate is roughened by scraping to produce tones and halftones. 2 print so produced. [italian: related to *mezzo, *tint]
-Mf  abbr. Mezzo forte.
-Mg  abbr. Milligram(s).
 Mgr.  Abbr. 1 manager. 2 monseigneur. 3 monsignor.
 Mhz  abbr. Megahertz.
 Miaow  —n. Characteristic cry of a cat. —v. Make this cry. [imitative]
@@ -14490,11 +14341,7 @@ Mixed bag  n. Diverse assortment.
 Mixer tap  n. Tap through which both hot and cold water can be drawn together.
 Mixture  n. 1 process or result of mixing. 2 combination of ingredients, qualities, characteristics, etc. [latin: related to *mixed]
 Mizen  n. (also mizzen) (in full mizen-sail) lowest fore-and-aft sail of a fully rigged ship's mizen-mast. [italian: related to *mezzanine]
-Ml  abbr. 1 millilitre(s). 2 mile(s).
-Mm  abbr. Millimetre(s).
-Mn  symb. Manganese.
 Mnemonic  —adj. Of or designed to aid the memory. —n. Mnemonic word, verse, etc. mnemonically adv. [greek mnemon mindful]
-Mo  abbr. 1 medical officer. 2 money order.
 Moa  n. (pl. -s) extinct flightless new zealand bird resembling the ostrich. [maori]
 Moan  —n. 1 long murmur expressing physical or mental suffering or pleasure. 2 low plaintive sound of wind etc. 3 colloq. Complaint; grievance. —v. 1 make a moan or moans. 2 colloq. Complain, grumble. 3 utter with moans.  moaner n. [old english]
 Moat  n. Defensive ditch round a castle etc., usu. Filled with water. [french mote mound]
@@ -14779,12 +14626,7 @@ Movie  n. Esp. Us colloq. Cinema film.
 Moving  adj. Emotionally affecting.  movingly adv.
 Mow  v. (past part. Mowed or mown) 1 (also absol.) Cut (grass, hay, etc.) With a scythe or machine. 2 cut down the produce of (a field) or the grass etc. Of (a lawn) by mowing.  mow down kill or destroy randomly or in great numbers.  mower n. [old english]
 Mozzarella  n. Italian curd cheese, orig. Of buffalo milk. [italian]
-Mp  abbr. Mezzo piano.
-Mr  n. (pl. Messrs) 1 title of a man without a higher title (mr jones). 2 title prefixed to a designation of office etc. (mr president; mr speaker). [abbreviation of *mister]
 Mrs  n. (pl. Same) title of a married woman without a higher title (mrs jones). [abbreviation of *mistress]
-Ms  abbr. 1 (pl. Mss) manuscript. 2 multiple sclerosis.
-Mt.  Abbr. Mount.
-Mu  n. 1 twelfth greek letter (m, m). 2 (m, as a symbol) = *micro- 2. [greek]
 Much  —adj. 1 existing or occurring in a great quantity (much trouble; too much noise). 2 (prec. By as, how, that, etc.) With relative sense (i don't know how much money you want). —n. 1 a great quantity (much of that is true). 2 (prec. By as, how, that, etc.) With relative sense (we do not need that much). 3 (usu. In neg.) Noteworthy or outstanding example (not much to look at). —adv. 1 in a great degree (much to my surprise; is much the same; i much regret it; much annoyed; much better; much the best). 2 for a large part of one's time; often (he is not here much).  as much so (i thought as much). A bit much colloq. Excessive, immoderate. Much as even though (cannot come, much as i would like to). Much of a muchness very nearly the same. Not much of a colloq. A rather poor. [from *mickle]
 Mucilage  n. 1 viscous substance obtained from plants. 2 adhesive gum. [latin: related to *mucus]
 Muck-spreader  n. Machine for spreading dung.  muck-spreading n.
@@ -14917,8 +14759,6 @@ Mutton  n. Flesh of sheep as food. [medieval latin multo sheep]
 Mutual  adj. 1 (of feelings, actions, etc.) Experienced or done by each of two or more parties to or towards the other(s) (mutual affection). 2 colloq. Common to two or more persons (a mutual friend). 3 having the same (specified) relationship to each other (mutual well-wishers).  mutuality n. Mutually adv. [latin mutuus borrowed]
 Muzzle  —n. 1 projecting part of an animal's face, including the nose and mouth. 2 guard, usu. Of straps or wire, put over an animal's nose and mouth to stop it biting or feeding. 3 open end of a firearm. —v. (-ling) 1 put a muzzle on. 2 impose silence on. [medieval latin musum]
 Muzzy  adj. (-ier, -iest) 1 mentally hazy. 2 blurred, indistinct.  muzzily adv. Muzziness n. [origin unknown]
-Mw  abbr. 1 megawatt(s). 2 medium wave.
-My  poss. Pron. (attrib.) 1 of or belonging to me. 2 affectionate, patronizing, etc. Form of address (my dear boy). 3 in expressions of surprise (my god!; oh my!). 4 colloq. Indicating a close relative etc. Of the speaker (my johnny's ill again).  my lady (or lord) form of address to certain titled persons. [from *mine1]
 Myalgia  n. Muscular pain.  myalgic adj. [greek mus muscle]
 Mycelium  (pl. -lia) microscopic threadlike parts of a fungus. [greek mukes mushroom]
 Mycenaean  —adj. Of the late bronze age civilization in greece (c.1500–1100 bc), depicted in the homeric poems. —n. Person of this civilization. [latin mycenaeus]
@@ -14938,8 +14778,6 @@ Mystique  n. Atmosphere of mystery and veneration attending some activity, perso
 Myth  n. 1 traditional story usu. Involving supernatural or imaginary persons and embodying popular ideas on natural or social phenomena etc. 2 such narratives collectively. 3 widely held but false notion. 4 fictitious person, thing, or idea. 5 allegory (platonic myth).  mythical adj. Mythically adv. [greek muthos]
 Mythology  n. (pl. -ies) 1 body of myths. 2 the study of myths.  mythological adj. Mythologize v. (also -ise) (-zing or -sing). [greek: related to *myth]
 Myxomatosis  n. Viral disease of rabbits. [greek muxa mucus]
-N  abbr. (also n.) 1 name. 2 neuter.
-Naïve  adj. (also naive) 1 innocent; unaffected. 2 foolishly credulous. 3 (of art) produced in a sophisticated society but lacking conventional expertise.  naïvely adv. Naïvety n. (also naïveté). [latin nativus *native]
 Nab  v. (-bb-) slang 1 arrest; catch in wrongdoing. 2 grab. [origin unknown]
 Nacho  n. (pl. -s) tortilla chip, usu. Topped with melted cheese and spices etc. [origin uncertain]
 Nacre  n. Mother-of-pearl from any shelled mollusc.  nacreous adj. [french]
@@ -15018,10 +14856,7 @@ Navy  n. (pl. -ies) 1 (often the navy) a whole body of a state's ships of war, i
 Nay  —adv. 1 or rather; and even; and more than that (large, nay, huge). 2 archaic = *no2 adv. 1. —n. Utterance of ‘nay’; ‘no’ vote. [old norse, = not ever]
 Nazarene  —n. 1 a (prec. By the) christ. B (esp. In jewish or muslim use) christian. 2 native or inhabitant of nazareth. —adj. Of nazareth. [latin from greek]
 Nazi  —n. (pl. -s) hist. Member of the german national socialist party. —adj. Of the nazis or nazism.  nazism n. [representing pronunciation of nati- in german nationalsozialist]
-Nb  symb. Niobium.
 Nco  abbr. Non-commissioned officer.
-Nd  symb. Neodymium.
-Ne'er  adv. Poet. = *never. [contraction]
 Neanderthal  adj. Of the type of human widely distributed in palaeolithic europe, with a retreating forehead and massive brow-ridges. [region in w. Germany]
 Neap  n. (in full neap tide) tide at the times of the month when there is least difference between high and low water. [old english]
 Neapolitan  —n. Native or citizen of naples. —adj. Of naples. [greek neapolis naples]
@@ -15158,7 +14993,6 @@ Newt  n. Small amphibian with a well-developed tail. [ewt, with n from an: var. 
 Newton  n. Si unit of force that, acting on a mass of one kilogram, increases its velocity by one metre per second every second. [newton, name of a scientist]
 Next world  n. (prec. By the) life after death.
 Nexus  n. (pl. Same) connected group or series. [latin necto nex- bind]
-Ni  symb. Nickel.
 Niacin  n. = *nicotinic acid. [shortening]
 Nib  n. 1 pen-point. 2 (in pl.) Shelled and crushed coffee or cocoa beans. [low german or dutch]
 Nibble  —v. (-ling) 1 (foll. By at) a take small bites at. B take cautious interest in. 2 eat in small amounts. 3 bite at gently, cautiously, or playfully. —n. 1 act of nibbling. 2 very small amount of food. [low german or dutch]
@@ -15229,7 +15063,6 @@ Nitroglycerine  n. (us nitroglycerin) explosive yellow liquid made by reacting g
 Nitrous oxide  n. Colourless gas used as an anaesthetic. [latin: related to *nitre]
 Nitty-gritty  n. Slang realities or practical details of a matter. [origin uncertain]
 Nitwit  n. Colloq. Stupid person. [perhaps from *nit, *wit]
-No1  symb.  Nobelium.
 Nob2  n. Slang head. [from *knob]
 Nobble  v. (-ling) slang 1 try to influence (e.g. A judge), esp. Unfairly. 2 tamper with (a racehorse) to prevent its winning. 3 steal. 4 seize, catch. [dial. Knobble beat]
 Nobel prize  n. Any of six international prizes awarded annually for physics, chemistry, physiology or medicine, literature, economics, and the promotion of peace. [from nobel, swedish chemist and engineer, who endowed them]
@@ -15364,12 +15197,7 @@ Nowhere  —adv. In or to no place. —pron. No place.  get nowhere make no pro
 Nowt  n. Colloq. Or dial. Nothing. [from *nought]
 Noxious  adj. Harmful, unwholesome. [latin noxa harm]
 Nozzle  n. Spout on a hose etc. From which a jet issues. [diminutive of *nose]
-Np  symb.  Neptunium.
-Nr.  Abbr. Near.
-Ns  abbr. New style.
-Nt  abbr. 1 new testament. 2 northern territory (of australia). 3 national trust.
 Nth  see *n1.
-Nu  n. Thirteenth letter of the greek alphabet (n, n). [greek]
 Nuance  n. Subtle shade of meaning, feeling, colour, etc. [latin nubes cloud]
 Nub  n. 1 point or gist (of a matter or story). 2 (also nubble) small lump, esp. Of coal.  nubbly adj. [related to *knob]
 Nubile  adj. (of a woman) marriageable or sexually attractive.  nubility n. [latin nubo become the wife of]
@@ -15430,12 +15258,10 @@ Nutshell  n. Hard exterior covering of a nut.  in a nutshell in a few words.
 Nutter  n. Slang crazy person.
 Nutty  adj. (-ier, -iest) 1 a full of nuts. B tasting like nuts. 2 slang crazy.  nuttiness n.
 Nuzzle  v. (-ling) 1 prod or rub gently with the nose. 2 (foll. By into, against, up to) press the nose gently. 3 nestle; lie snug. [from *nose]
-Ny  abbr. Us new york.
 Nylon  n. 1 tough light elastic synthetic fibre. 2 nylon fabric. 3 (in pl.) Stockings of nylon. [invented word]
 Nymph  n. 1 mythological semi-divine spirit regarded as a maiden and associated with an aspect of nature, esp. Rivers and woods. 2 poet. Beautiful young woman. 3 immature form of some insects. [greek numphe nymph, bride]
 Nympho  n. (pl. -s) colloq. Nymphomaniac. [abbreviation]
 Nymphomania  n. Excessive sexual desire in a woman.  nymphomaniac n. & adj. [from *nymph, *-mania]
-O1  n. (also o) (pl. Os or o's) 1 fifteenth letter of the alphabet. 2 (0) nought, zero.
 Oaf  n. (pl. -s) 1 awkward lout. 2 stupid person.  oafish adj. Oafishly adv. Oafishness n. [old norse: related to *elf]
 Oak  n. 1 acorn-bearing tree with lobed leaves. 2 its durable wood. 3 (attrib.) Of oak. 4 (the oaks) (treated as sing.) Annual race at epsom for fillies. [old english]
 Oakum  n. Loose fibre obtained by picking old rope to pieces and used esp. In caulking. [old english, = off-comb]
@@ -15447,7 +15273,6 @@ Oat  n. 1 a hardy cereal plant grown as food. B (in pl.) Grain yielded by this. 
 Oatcake  n. Thin oatmeal biscuit.
 Oath  n. (pl. -s) 1 solemn declaration naming god etc. As witness. 2 profanity, curse.  on (or under) oath having sworn a solemn oath. [old english]
 Oatmeal  n. 1 meal ground from oats. 2 greyish-fawn colour flecked with brown.
-Ob.  Abbr. He or she died. [latin obiit]
 Obbligato  n. (pl. -s) mus. Accompaniment forming an integral part of a composition. [italian, = obligatory]
 Obdurate  adj. 1 stubborn. 2 hardened.  obduracy n. [latin duro harden]
 Obe  abbr. Officer of the order of the british empire.
@@ -15511,7 +15336,6 @@ Obtuse  adj. 1 dull-witted. 2 (of an angle) between 90° and 180°. 3 of blunt f
 Obverse  n. 1 counterpart, opposite. 2 side of a coin or medal etc. Bearing the head or principal design. 3 front, proper, or top side of a thing. [latin obverto obvers- turn towards]
 Obviate  v. (-ting) get round or do away with (a need, inconvenience, etc.). [latin obvio prevent]
 Obvious  adj. Easily seen, recognized, or understood.  obviously adv. Obviousness n. [latin ob viam in the way]
-Oc  abbr. Officer commanding.
 Ocarina  n. Small egg-shaped musical wind-instrument. [italian oca goose]
 Occasion  —n. 1 a special event or happening. B time of this. 2 reason, need. 3 suitable juncture, opportunity. 4 immediate but subordinate cause. —v. Cause, esp. Incidentally.  on occasion now and then; when the need arises. [latin occido occas- go down]
 Occasional table  n. Small table for use as required.
@@ -15544,7 +15368,6 @@ Octogenarian  n. Person from 80 to 89 years old. [latin octogeni 80 each]
 Octopus  n. (pl. -puses) sea mollusc with eight suckered tentacles. [greek: related to *octo-, pous foot]
 Ocular  adj. Of, for, or by the eyes; visual. [latin oculus eye]
 Oculist  n. Specialist in the treatment of the eyes.
-Od  slang —n. Drug overdose. —v. (od's, od'd, od'ing) take an overdose. [abbreviation]
 Odd  adj. 1 strange, remarkable, eccentric. 2 casual, occasional (odd jobs; odd moments). 3 not normally considered; unconnected (in some odd corner; picks up odd bargains). 4 a (of numbers) not integrally divisible by two, e.g. 1, 3, 5. B bearing such a number (no parking on odd dates). 5 left over when the rest have been distributed or divided into pairs (odd sock). 6 detached from a set or series (odd volumes). 7 (appended to a number, sum, weight, etc.) Somewhat more than (forty odd; forty-odd people). 8 by which a round number, given sum, etc., is exceeded (we have 102 – do you want the odd 2?).  oddly adv. Oddness n. [old norse oddi angle, point, third or odd number]
 Oddball  n. Colloq. Eccentric person.
 Oddity  n. (pl. -ies) 1 strange person, thing, or occurrence. 2 peculiar trait. 3 strangeness.
@@ -15563,7 +15386,6 @@ Oedipus complex  n. Child's, esp. A boy's, subconscious sexual desire for the pa
 Oesophagus  n. (us esophagus) (pl. -gi or -guses) passage from the mouth to the stomach; gullet. [greek]
 Oestrogen  n. (us estrogen) 1 sex hormone developing and maintaining female characteristics of the body. 2 this produced artificially for use in medicine. [greek oistros frenzy, *-gen]
 Oestrus  n. (also oestrum, us estrus) recurring period of sexual receptivity in many female mammals.  oestrous adj. [greek oistros frenzy]
-Of  prep. Expressing: 1 origin or cause (paintings of turner; died of cancer). 2 material or substance (house of cards; built of bricks). 3 belonging or connection (thing of the past; articles of clothing; head of the business). 4 identity or close relation (city of rome; a pound of apples; a fool of a man). 5 removal or separation (north of the city; got rid of them; robbed us of £1000). 6 reference or direction (beware of the dog; suspected of lying; very good of you; short of money). 7 objective relation (love of music; in search of peace). 8 partition, classification, or inclusion (no more of that; part of the story; this sort of book). 9 description, quality, or condition (the hour of prayer; person of tact; girl of ten; on the point of leaving). 10 us time in relation to the following hour (a quarter of three).  be of possess, give rise to (is of great interest). Of an evening (or morning etc.) Colloq. 1 on most evenings (or mornings etc.). 2 at some time in the evenings (or mornings etc.). Of late recently. Of old formerly. [old english]
 Off chance  n. (prec. By the) remote possibility.
 Offal  n. 1 less valuable edible parts of a carcass, esp. The heart, liver, etc. 2 refuse, scraps. [dutch afval: related to *off, *fall]
 Offbeat  —adj. 1 not coinciding with the beat. 2 eccentric, unconventional. —n. Any of the unaccented beats in a bar.
@@ -15598,7 +15420,6 @@ Ogee  n. S-shaped line or moulding. [apparently from *ogive]
 Ogive  n. 1 pointed arch. 2 diagonal rib of a vault. [french]
 Ogle  —v. (-ling) look amorously or lecherously (at). —n. Amorous or lecherous look. [probably low german or dutch]
 Ogre  n. (fem. Ogress) 1 man-eating giant in folklore. 2 terrifying person.  ogreish adj. (also ogrish). [french]
-Oh  int. (also o) expressing surprise, pain, entreaty, etc.  oh (or o) for i wish i had. [var. Of *o4]
 Ohm  n. Si unit of electrical resistance. [ohm, name of a physicist]
 Ohms  abbr. On her (or his) majesty's service.
 Oho  int. Expressing surprise or exultation. [from *o4, *ho]
@@ -15612,7 +15433,6 @@ Oilskin  n. 1 cloth waterproofed with oil. 2 a garment of this. B (in pl.) Suit 
 Oilstone  n. Fine-grained flat stone used with oil for sharpening flat tools, e.g. Chisels, planes, etc.
 Oily  adj. (-ier, -iest) 1 of or like oil. 2 covered or soaked with oil. 3 (of a manner etc.) Fawning, unctuous, ingratiating.  oiliness n.
 Ointment  n. Smooth greasy healing or cosmetic preparation for the skin. [latin unguo anoint]
-Ok  (also okay) colloq. —adj. (often as int.) All right; satisfactory. —adv. Well, satisfactorily. —n. (pl. Oks) approval, sanction. —v. (ok's, ok'd, ok'ing) approve, sanction. [originally us: probably abbreviation of orl (or oll) korrect, jocular form of ‘all correct’]
 Okapi  n. (pl. Same or -s) african giraffe-like mammal but with a shorter neck and striped body. [mbuba]
 Okay  var. Of *ok.
 Okra  n. Tall, orig. African plant with long ridged seed-pods used for food. [west african native name]
@@ -15630,7 +15450,6 @@ Olivine  n. Mineral (usu. Olive-green) composed of magnesium-iron silicate.
 Olympiad  n. 1 a period of four years between olympic games, used by the ancient greeks in dating events. B four-yearly celebration of the ancient olympic games. 2 celebration of the modern olympic games. 3 regular international contest in chess etc. [greek olumpias olumpiad-: related to *olympic]
 Olympian  —adj. 1 a of olympus. B celestial. 2 (of manners etc.) Magnificent, condescending, superior. 3 = *olympic. —n. 1 greek god dwelling on olympus. 2 person of superhuman ability or calm. 3 competitor in the olympic games. [from mt. Olympus in greece, or as *olympic]
 Olympic games  n.pl. 1 ancient greek athletic festival held at olympia every four years. 2 modern international revival of this.
-Om  abbr. Order of merit.
 Ombudsman  n. (pl. -men) official appointed to investigate complaints against public authorities. [swedish, = legal representative]
 Omega  n. 1 last (24th) letter of the greek alphabet (w, w). 2 last of a series; final development. [greek o mega = great o]
 Omelette  n. Beaten eggs fried and often folded round a savoury filling. [french]
@@ -15645,7 +15464,6 @@ Omnipotent  adj. Having great or absolute power.  omnipotence n. [latin: relate
 Omnipresent  adj. Present everywhere.  omnipresence n. [latin: related to *present1]
 Omniscient  adj. Knowing everything or much.  omniscience n. [latin scio know]
 Omnivorous  adj. 1 feeding on both plant and animal material. 2 reading, observing, etc. Everything that comes one's way.  omnivore n. Omnivorousness n. [latin voro devour]
-On  —prep. 1 (so as to be) supported by, attached to, covering, or enclosing (sat on a chair; stuck on the wall; rings on her fingers; leaned on his elbow). 2 carried with; about the person of (have you a pen on you?). 3 (of time) exactly at; during (on 29 may; on the hour; on schedule; closed on tuesday). 4 immediately after or before (i saw them on my return). 5 as a result of (on further examination).
 Onanism  n. Literary masturbation. [onan, biblical person]
 Once  —adv. 1 on one occasion only. 2 at some point or period in the past. 3 ever or at all (if you once forget it). 4 multiplied by one. —conj. As soon as. —n. One time or occasion (just the once).  all at once 1 suddenly. 2 all together. At once 1 immediately. 2 simultaneously. For once on this (or that) occasion, even if at no other. Once again (or more) another time. Once and for all (or once for all) in a final manner, esp. After much hesitation. Once (or every once) in a while from time to time. Once or twice a few times. Once upon a time at some unspecified time in the past. [originally genitive of *one]
 Oncology  n. The study of tumours. [greek ogkos mass]
@@ -15677,7 +15495,6 @@ Oompah  n. Colloq. Rhythmical sound of deep brass instruments. [imitative]
 Oomph  n. Slang 1 energy, enthusiasm. 2 attractiveness, esp. Sex appeal. [origin uncertain]
 Oops  int. Colloq. On making an obvious mistake. [natural exclamation]
 Ooze1  —v. (-zing) 1 trickle or leak slowly out. 2 (of a substance) exude fluid. 3 (often foll. By with) exude (a feeling) freely (oozed (with) charm). —n. Sluggish flow.  oozy adj. [old english]
-Op  n. Colloq. Operation. [abbreviation]
 Opacity  n. Opaqueness. [latin: related to *opaque]
 Opal  n. Semiprecious stone usu. Of a milky or bluish colour and sometimes showing changing colours. [latin]
 Opalescent  adj. Iridescent.  opalescence n.
@@ -15742,7 +15559,6 @@ Option  n. 1 a choosing; choice. B thing that is or may be chosen. 2 liberty to 
 Optional extra  n. Item costing extra if one chooses to have it.
 Opulent  adj. 1 wealthy. 2 luxurious. 3 abundant.  opulence n. [latin opes wealth]
 Opus  n. (pl. Opuses or opera) 1 musical composition numbered as one of a composer's works (beethoven, opus 15). 2 any artistic work (cf. *magnum opus). [latin, = work]
-Or1  conj. 1 introducing an alternative (white or black; take it or leave it; whether or not). 2 introducing an alternative name (the lapwing or peewit). 3 introducing an afterthought (came in laughing – or was it crying?). 4 = or else 1 (run or you'll be late).  or else 1 otherwise (run, or else you will be late). 2 colloq. Expressing a warning or threat (be good or else). [old english]
 Oracle  n. 1 a place at which divine advice or prophecy was sought in classical antiquity. B response given. C prophet or prophetess at an oracle. 2 person or thing regarded as a source of wisdom etc. 3 (oracle) propr. Teletext service provided by independent television.  oracular adj. [latin oraculum from oro speak]
 Oral  —adj. 1 by word of mouth; spoken; not written (oral examination). 2 done or taken by the mouth (oral sex; oral contraceptive). —n. Colloq. Spoken examination.  orally adv. [latin os oris mouth]
 Orang-utan  n. (also orang-outang) large reddish-haired long-armed anthropoid ape of the e. Indies. [malay, = wild man]
@@ -15819,7 +15635,6 @@ Orthography  n. (pl. -ies) spelling (esp. With reference to its correctness).  
 Orthopaedics  n.pl. (treated as sing.) (us -pedics) branch of medicine dealing with the correction of diseased, deformed, or injured bones or muscles.  orthopaedic adj. Orthopaedist n. [greek pais paid- child]
 Orthopedics  n.pl. (treated as sing.) (brit. -paedics) branch of medicine dealing with the correction of diseased, deformed, or injured bones or muscles.  orthopaedic adj. Orthopaedist n. [greek pais paid- child]
 Ortolan  n.  European bunting, eaten as a delicacy. [latin hortus garden]
-Os  abbr. 1 old style. 2 ordinary seaman. 3 ordnance survey. 4 outsize.
 Oscar  n. Any of the statuettes awarded by the us academy of motion picture arts and sciences for excellence in film acting, directing, etc. [man's name]
 Oscillate  v. (-ting) 1 (cause to) swing to and fro. 2 vacillate; vary between extremes. 3  (of an electric current) undergo high-frequency alternations.  oscillation n. Oscillator n. [latin oscillo swing]
 Oscilloscope  n. Device for viewing oscillations by a display on the screen of a cathode-ray tube.
@@ -15839,7 +15654,6 @@ Osteoporosis  n. Condition of brittle bones caused esp. By hormonal changes or d
 Ostler  n. Hist. Stableman at an inn. [related to *hostel]
 Ostracize  v. (also -ise) (-zing or -sing) exclude from society; refuse to associate with.  ostracism n. [greek (ostrakon potsherd, on which a vote was recorded in ancient athens to expel a powerful or unpopular citizen)]
 Ostrich  n. 1 large african swift-running flightless bird. 2 person who refuses to acknowledge an awkward truth. [latin avis bird, struthio (from greek) ostrich]
-Ot  abbr. Old testament.
 Other-worldly  adj. 1 of another world. 2 dreamily distracted from mundane life.
 Otherwise  —adv. 1 or else; in different circumstances (hurry, otherwise we'll be late). 2 in other respects (is otherwise very suitable). 3 in a different way (could not have acted otherwise). 4 as an alternative (otherwise known as jack). —adj. (predic.) Different (the matter is quite otherwise). [old english: related to *wise2]
 Otiose  adj. Serving no practical purpose; not required. [latin otium leisure]
@@ -16084,7 +15898,6 @@ Ovoid  adj. (of a solid) egg-shaped. [related to *ovum]
 Ovulate  v. (-ting) produce ova or ovules, or discharge them from the ovary.  ovulation n. [related to *ovum]
 Ovule  n. Structure that contains the germ cell in a female plant. [related to *ovum]
 Ovum  n. (pl. Ova) female egg-cell from which young develop after fertilization. [latin, = egg]
-Ow  int. Expressing sudden pain. [natural exclamation]
 Owe  v. (owing) 1 a be under obligation (to a person etc.) To pay or repay (money, gratitude, etc.). B (usu. Foll. By for) be in debt. 2 have a duty to render (owe allegiance). 3 (usu. Foll. By to) be indebted to a person or thing for (we owe our success to the weather). [old english]
 Owing  predic. Adj. 1 owed; yet to be paid. 2 (foll. By to) a caused by. B (as prep.) Because of.
 Owl  n. 1 nocturnal bird of prey with large eyes and a hooked beak. 2 solemn or wise-looking person.  owlish adj. [old english]
@@ -16092,7 +15905,6 @@ Owlet  n. Small or young owl.
 Own  —adj. (prec. By possessive) 1 a belonging to oneself or itself; not another's (saw it with my own eyes). B individual, peculiar, particular (has its own charm). 2 used to emphasize identity rather than possession (cooks his own meals). 3 (absol.) Private property (is it your own?). —v. 1 have as property; possess. 2 admit as valid, true, etc. 3 acknowledge paternity, authorship, or possession of.  come into one's own 1 receive one's due. 2 achieve recognition. Get one's own back get revenge. Hold one's own maintain one's position. Of one's own belonging to oneself. On one's own 1 alone, independent. 2 independently, without help. Own up (often foll. By to) confess frankly.  -owned adj. (in comb.). [old english]
 Owner-occupier  n. Person who owns and occupies a house.
 Owt  n. Colloq. Or dial. Anything. [var. Of *aught]
-Ox-eye daisy  n. Daisy with white petals and a yellow centre.
 Oxalic acid  n.  Very poisonous and sour acid found in sorrel and rhubarb leaves. [greek oxalis wood sorrel]
 Oxbow  n. Loop formed by a horseshoe bend in a river.
 Oxen  pl. Of *ox.
@@ -16109,10 +15921,7 @@ Oxygenate  v. (-ting) supply, treat, or mix with oxygen; oxidize.
 Oxymoron  n. Figure of speech in which apparently contradictory terms appear in conjunction (e.g. Faith unfaithful kept him falsely true). [greek, = pointedly foolish, from oxus sharp, moros dull]
 Oyez  int. (also oyes) uttered, usu. Three times, by a public crier or a court officer to command attention. [anglo-french, = hear!, from latin audio]
 Oyster-catcher  n. Wading sea bird.
-Oz  abbr. Ounce(s). [italian onza ounce]
 Ozone-friendly  adj. Not containing chemicals destructive to the ozone layer.
-P2  abbr. (also p.) 1 (on road signs) parking. 2 chess pawn. 3 proprietary.
-Pa  n. Colloq. Father. [abbreviation of *papa]
 Pabulum  n. Food, esp. For the mind. [latin]
 Pace bowler  n. Cricket fast bowler.
 Pacemaker  n. 1 competitor who sets the pace in a race. 2 natural or artificial device for stimulating the heart muscle.
@@ -16526,9 +16335,6 @@ Paymaster  n. 1 official who pays troops, workmen, etc. 2 usu. Derog. Person, or
 Payment  n. 1 paying. 2 amount paid. 3 reward, recompense.
 Payola  n. Esp. Us slang bribe offered for unofficial promotion of a product etc. In the media.
 Payroll  n. List of employees receiving regular pay.
-Pc  abbr. 1 police constable. 2 privy councillor. 3 personal computer.
-Pd  symb. Palladium.
-Pe  abbr. Physical education.
 Pea green  adj. & n. (as adj. Often hyphenated) bright green.
 Peace  n. 1 a quiet; tranquillity. B mental calm; serenity. 2 a (often attrib.) Freedom from or the cessation of war (peace talks). B (esp. Peace) treaty of peace between states etc. At war. 3 freedom from civil disorder.  at peace 1 in a state of friendliness. 2 serene. 3 euphem. Dead. Hold one's peace keep silent. Keep the peace prevent, or refrain from, strife. Make one's peace (often foll. By with) re-establish friendly relations. Make peace agree to end a war or quarrel. [latin pax pac-]
 Peaceable  adj. 1 disposed to peace. 2 peaceful; tranquil. [latin placibilis pleasing: related to *please]
@@ -16847,8 +16653,6 @@ Pewit  var. Of *peewit.
 Pewter  n. 1 grey alloy of tin, antimony, and copper. 2 utensils made of this. [french peutre]
 Peyote  n. 1 mexican cactus. 2 hallucinogenic drug prepared from this. [american spanish from nahuatl]
 Pfennig  n. One-hundredth of a deutschmark. [german]
-Pg  abbr. (of a film) classified as suitable for children subject to parental guidance.
-Ph  n. Measure of the acidity or alkalinity of a solution. [german potenz power, h (symbol for hydrogen)]
 Phagocyte  n. Leucocyte capable of engulfing and absorbing foreign matter. [greek phag- eat, kutos cell]
 Phalanx  n. (pl. Phalanxes or phalanges) 1 gk antiq. Line of battle, esp. A body of infantry drawn up in close order. 2 set of people etc. Forming a compact mass, or banded for a common purpose. [latin from greek]
 Phallus  n. (pl. Phalli or phalluses) 1 (esp. Erect) penis. 2 image of this as a symbol of natural generative power.  phallic adj. [latin from greek]
@@ -16944,7 +16748,6 @@ Physiognomy  n. (pl. -ies) 1 a cast or form of a person's features, expression, 
 Physiology  n. 1 science of the functions of living organisms and their parts. 2 these functions.  physiological adj. Physiologist n. [latin: related to *physic, *-logy]
 Physiotherapy  n. Treatment of disease, injury, deformity, etc., by physical methods including massage, heat treatment, remedial exercise, etc.  physiotherapist n. [related to *physic, *therapy]
 Physique  n. Bodily structure and development. [french: related to *physic]
-Pièce de résistance  n. (pl. Pièces de résistance pronunc. Same) most important or remarkable item, esp. A dish at a meal. [french]
 Pia mater  n. Delicate innermost membrane enveloping the brain and spinal cord. [latin, = tender mother]
 Pianissimo  mus. —adj. Very soft. —adv. Very softly. —n. (pl. -s or -mi) very soft playing or passage. [italian, superlative of *piano2]
 Pianist  n. Piano-player.
@@ -17120,7 +16923,6 @@ Pixie  n. (also pixy) (pl. -ies) fairy-like being. [origin unknown]
 Pizza  n. Italian dish of a layer of dough baked with a topping of tomatoes, cheese, etc. [italian, = pie]
 Pizzeria  n. Pizza restaurant.
 Pizzicato  mus. —adv. Plucking. —adj. (of a note, passage, etc.) Performed pizzicato. —n. (pl. -s or -ti) note, passage, etc. Played pizzicato. [italian]
-Pl.  Abbr. 1 plural. 2 (usu. Pl.) Place. 3 plate.
 Placable  adj. Easily placated; mild; forgiving.  placability n. [latin placo appease]
 Placard  —n. Large notice for public display. —v. Set up placards on (a wall etc.). [french from dutch placken glue (v.)]
 Placate  v. (-ting) pacify; conciliate.  placatory adj. [latin placo appease]
@@ -17274,12 +17076,10 @@ Pluvial  adj. 1 of rain; rainy. 2 geol. Caused by rain. [latin pluvia rain]
 Ply2  v. (-ies, -ied) 1 use or wield (a tool, weapon, etc.). 2 work steadily at (ply one's trade). 3 (foll. By with) a supply continuously (with food, drink, etc.). B approach repeatedly (with questions, etc.). 4 a (often foll. By between) (of a vehicle etc.) Travel regularly to and fro. B work (a route) thus. 5 (of a taxi-driver etc.) Attend regularly for custom (ply for hire). [from *apply]
 Plymouth brethren  n.pl. Calvinistic religious body with no formal creed and no official order of ministers. [plymouth in devon]
 Plywood  n. Strong thin board made by gluing layers of wood with the direction of the grain alternating.
-Pm  symb. Promethium.
 Pmt  abbr. Premenstrual tension.
 Pneumatic  adj. 1 filled with air or wind (pneumatic tyre). 2 operated by compressed air (pneumatic drill). [greek pneuma wind]
 Pneumoconiosis  n. Lung disease caused by the inhalation of dust or small particles. [greek pneumon lung, konis dust]
 Pneumonia  n. Inflammation of one or both lungs. [greek pneumon lung]
-Po  symb. Polonium.
 Poach1  v. 1 cook (an egg) without its shell in or over boiling water. 2 cook (fish etc.) By simmering in a small amount of liquid.  poacher n. [french pochier: related to *poke2]
 Pock  n. (also pock-mark) small pus-filled spot on the skin, esp. Caused by chickenpox or smallpox.  pock-marked adj. [old english]
 Pocket  —n. 1 small bag sewn into or on clothing, for carrying small articles. 2 pouchlike compartment in a suitcase, car door, etc. 3 one's financial resources (beyond my pocket). 4 isolated group or area (pockets of resistance). 5 cavity in the earth containing ore, esp. Gold. 6 pouch at the corner or on the side of a billiard- or snooker-table into which balls are driven. 7 = *air pocket. 8 (attrib.) A small enough or intended for carrying in a pocket.
@@ -17562,10 +17362,8 @@ Powerless  adj. 1 without power. 2 wholly unable.  powerlessness n.
 Powwow  —n. Meeting for discussion (orig. Among n. American indians). —v. Hold a powwow. [algonquian]
 Pox  n. 1 virus disease leaving pock-marks. 2 colloq. = *syphilis. [alteration of pocks pl. Of *pock]
 Poxy  adj. (-ier, -iest) 1 infected by pox. 2 slang of poor quality; worthless.
-Pp.  Abbr. Pages.
 Ppm  abbr. Parts per million.
 Pps  abbr. 1 parliamentary private secretary. 2 additional postscript. [sense 2 from post-postscript]
-Précis  —n. (pl. Same) summary, abstract. —v. (-cises; -cised; -cising) make a précis of. [french]
 Practicable  adj. 1 that can be done or used. 2 possible in practice.  practicability n.  [french: related to *practical]
 Practical  —adj. 1 of or concerned with practice rather than theory (practical difficulties). 2 suited to use; functional (practical shoes). 3 (of a person) good at making, organizing, or mending things. 4 sensible, realistic. 5 that is such in effect, virtual (in practical control). —n. Practical examination or lesson.  practicality n. (pl. -ies). [greek praktikos from prasso do]
 Practically  adv. 1 virtually, almost. 2 in a practical way.
@@ -18074,7 +17872,6 @@ Prurient  adj. Having or encouraging unhealthy sexual curiosity.  prurience n. 
 Prussian blue  n. & adj. (as adj. Often hyphenated) deep blue (pigment).
 Prussic acid  n.  Hydrocyanic acid. [french]
 Pry  v. (pries, pried) 1 (usu. Foll. By into) inquire impertinently. 2 (usu. Foll. By into, about, etc.) Look or peer inquisitively. [origin unknown]
-Ps  abbr. Postscript.
 Psalm  n. 1 (also psalm) sacred song, esp. From the book of psalms, esp. Metrically chanted in a service. 2 (the psalms or the book of psalms) old testament book containing the psalms. [latin psalmus from greek]
 Psalmist  n. Composer of a psalm.
 Psalmody  n. Practice or art of singing psalms, hymns, etc., esp. In public worship. [greek: related to *psalm]
@@ -18107,7 +17904,6 @@ Psychosis  n. (pl. -choses) severe mental disorder with loss of contact with rea
 Psychosomatic  adj. 1 (of a bodily disorder) mental, not physical, in origin. 2 of the mind and body together.
 Psychotherapy  n. Treatment of mental disorder by psychological means.  psychotherapeutic adj. Psychotherapist n.
 Psychotic  —adj. Of or suffering from a psychosis. —n. Psychotic person.
-Pt  symb.  Platinum.
 Pta  abbr. Parent-teacher association.
 Ptarmigan  n. Game-bird with a grouselike appearance. [gaelic]
 Pte.  Abbr. Private (soldier).
@@ -18116,7 +17912,6 @@ Pterodactyl  n. Large extinct flying reptile. [greek pteron wing, *dactyl]
 Pterosaur  n. Flying reptile with large batlike wings. [greek pteron wing, saura lizard]
 Ptolemaic system  n. Theory that the earth is the stationary centre of the universe.
 Ptomaine  n. Any of various esp. Toxic amine compounds in putrefying matter.  [greek ptoma corpse]
-Pu  symb.  Plutonium.
 Pub  n. Colloq. Public house. [abbreviation]
 Puberty  n. Period of sexual maturation.  pubertal adj. [latin puber adult]
 Pubes1  n. (pl. Same) 1 lower part of the abdomen at the front of the pelvis. 2 colloq. Pubic hair. [latin]
@@ -18290,11 +18085,7 @@ Pyrrhic  adj. (of a victory) won at too great a cost. [pyrrhus of epirus, who de
 Pythagoras' theorem  n. Theorem that the square on the hypotenuse of a right-angled triangle is equal to the sum of the squares on the other two sides. [pythagoras (6th c. Bc), name of a greek philosopher]
 Python  n. Large tropical constricting snake. [greek puthon, name of a monster]
 Pyx  n. Vessel for the consecrated bread of the eucharist. [greek puxis *box1]
-Q.v.  Abbr. Which see (in references). [latin quod vide]
 Qed  abbr. Which was to be proved. [latin quod erat demonstrandum]
-Qm  abbr. Quartermaster.
-Qr.  Abbr. Quarter(s).
-Qt  abbr. Quart(s).
 Qua  conj. In the capacity of. [latin, = in the way in which]
 Quack2  n. 1  unqualified practitioner, esp. Of medicine; charlatan (often attrib.: quack cure). 2 slang any doctor.  quackery n. [abbreviation of quacksalver from dutch: probably related to *quack1, *salve1]
 Quad2  n. Colloq. Quadruplet. [abbreviation]
@@ -18429,8 +18220,6 @@ Quote  —v. (-ting) 1 cite or appeal to (an author, book, etc.) In confirmation
 Quoth  v. (only in 1st and 3rd person) archaic said. [old english]
 Quotidian  adj. 1 occurring or recurring daily. 2 commonplace, trivial. [latin cotidie daily]
 Quotient  n. Result of a division sum. [latin quotiens -ent- how many times]
-R.  Abbr. (also r) 1 right. 2 radius.
-Ra  abbr. 1 a royal academy. B royal academician. 2 royal artillery.
 Rabbet  —n. Step-shaped channel cut along the edge or face of a length of wood etc., usu. To receive the edge or tongue of another piece. —v. (-t-) 1 join or fix with a rabbet. 2 make a rabbet in. [french rab(b)at: related to *rebate1]
 Rabbi  n. (pl. -s) 1 jewish scholar or teacher, esp. Of the law. 2 jewish religious leader.  rabbinical adj. [hebrew, = my master]
 Rabbit  —n. 1 a burrowing plant-eating mammal of the hare family. B us hare. 2 its fur. —v. (-t-) 1 hunt rabbits. 2 (often foll. By on, away) colloq. Talk pointlessly; chatter. [origin uncertain]
@@ -18639,9 +18428,6 @@ Raze  v. (also rase) (-zing or -sing) completely destroy; tear down (esp. Raze t
 Razor-bill  n. Auk with a sharp-edged bill.
 Razzle-dazzle  n. (also razzle) colloq. 1 a excitement; bustle. B spree (esp. On the razzle). 2 extravagant publicity. [reduplication of *dazzle]
 Razzmatazz  n. Colloq. 1 glamorous excitement, bustle. 2 spree. 3 insincere actions. [probably an alteration of *razzle-dazzle]
-Rc  abbr. Roman catholic.
-Rd.  Abbr. Road.
-Re-let  —v. (-tt-; past and past part. -let) let (a property) for a further period or to a new tenant. —n. Re-let property.
 Reach  —v. 1 (often foll. By out) stretch out, extend. 2 (often foll. By for) stretch out the hand etc.; make a stretch or effort. 3 get as far as. 4 get to or attain. 5 make contact with the hand etc., or by telephone etc. (could not be reached). 6 hand, pass (reach me that book). 7 take with an outstretched hand. 8 naut. Sail with the wind abeam or abaft the beam. —n. 1 extent to which a hand etc. Can be reached out, influence exerted, motion carried out, or mental powers used. 2 act of reaching out. 3 continuous extent, esp. Of river between two bends or of canal between locks. 4 naut. Distance traversed in reaching.  reachable adj. [old english]
 Reacquaint  v. Make acquainted again.  reacquaintance n.
 React  v. 1 (often foll. By to) respond to a stimulus; change or behave differently due to some influence (reacted badly to the news). 2 (often foll. By against) respond with repulsion to; tend in a reverse or contrary direction. 3 (foll. By with) (of a substance or particle) be the cause of chemical activity or interaction with another (nitrous oxide reacts with the metal). 4 (foll. By with)  cause (a substance) to react with another.
@@ -19418,8 +19204,6 @@ Reword  v. Express in different words.
 Rework  v. Revise; refashion; remake.  reworking n.
 Rewrite  —v. (-ting; past rewrote; past part. Rewritten) write again or differently. —n. 1 rewriting. 2 thing rewritten.
 Rex  n. 1 (after the name) reigning king (george rex). 2 law the crown (rex v. Jones). [latin]
-Rf  symb. Rutherfordium.
-Rh  symb. Rhodium.
 Rhapsodize  v. (also -ise) (-zing or -sing) talk or write rhapsodies.
 Rhapsody  n. (pl. -ies) 1 enthusiastic or extravagant speech or composition. 2 piece of music in one movement, often based on national, folk, or popular melodies.  rhapsodic adj. [greek rhapto stitch: related to *ode]
 Rhea  n. S. American flightless ostrich-like bird. [greek rhea mother name of zeus]
@@ -19551,9 +19335,6 @@ Riverside  n. (often attrib.) Ground along a river-bank.
 Rivet  —n. Nail or bolt for joining metal plates etc., with the headless end beaten out when in place. —v. (-t-) 1 a join or fasten with rivets. B beat out or press down the end of (a nail or bolt). C fix, make immovable. 2 a (foll. By on, upon) direct intently (one's eyes or attention etc.). B (esp. As riveting adj.) Engross (a person or the attention). [french river fasten]
 Riviera  n. Coastal subtropical region, esp. That of se france and nw italy. [italian, = sea-shore]
 Rivulet  n. Small stream. [latin rivus stream]
-Rm  abbr. Royal marines.
-Rn  abbr. Royal navy.
-Ro-ro  attrib. Adj. Roll-on roll-off. [abbreviation]
 Roach  n. (pl. Same or -es) small freshwater fish of the carp family. [french]
 Road-holding  n. Stability of a moving vehicle.
 Roadbed  n. 1 foundation structure of a railway. 2 foundation material for a road. 3 us part of a road on which vehicles travel.
@@ -19718,7 +19499,6 @@ Royalist  n. Supporter of monarchy, or hist. Of the royal side in the english ci
 Royalty  n. (pl. -ies) 1 royal office, dignity, or power; being royal. 2 a royal persons. B member of a royal family. 3 percentage of profit from a book, public performance, patent, etc. Paid to the author etc. 4 a royal right (now esp. Over minerals) granted by the sovereign. B payment made by a producer of minerals etc. To the owner of the site etc. [french: related to *royal]
 Rpm  abbr. Revolutions per minute.
 Rsvp  abbr. (in an invitation etc.) Please answer. [french répondez s'il vous plaît]
-Rt.  Abbr. Right.
 Rub-down  n. Rubbing down.
 Rubato  n. Mus. (pl. -s or -ti) temporary disregarding of strict tempo. [italian, = robbed]
 Rubber band  n. Loop of rubber for holding papers etc. Together.
@@ -19806,8 +19586,6 @@ Rutherfordium  n. Artificial metallic element. [rutherford, name of a physicist]
 Ruthless  adj. Having no pity or compassion.  ruthlessly adv. Ruthlessness n. [ruth pity, from *rue1]
 Rye  n. 1 a cereal plant. B grain of this used for bread and fodder. 2 (in full rye whisky) whisky distilled from fermented rye. [old english]
 Ryegrass  n. Forage or coarse lawn grass. [alteration of ray-grass]
-S3  symb. Sulphur.
-Sa  abbr. 1 salvation army. 2 south africa. 3 south australia.
 Sabbath  n. Religious day of rest kept by christians on sunday and jews on saturday. [hebrew, = rest]
 Sabbatical  —adj. (of leave) granted at intervals to a university teacher for study or travel. —n. Period of sabbatical leave. [greek: related to *sabbath]
 Saber  n. (brit. Sabre) 1 curved cavalry sword. 2 light tapering fencing-sword. [french from german sabel]
@@ -20063,8 +19841,6 @@ Saxon  —n. 1 hist. A member of the germanic people that conquered parts of eng
 Saxophone  n. Metal woodwind reed instrument used esp. In jazz.  saxophonist n. [sax, name of the maker]
 Say-so  n. Colloq. 1 power of decision. 2 mere assertion (his say-so is not enough).
 Saying  n. Maxim, proverb, etc.  go without saying be too obvious to need mention.
-Sb  symb. Antimony. [latin stibium]
-Sc.  Abbr. Scilicet.
 Scab  —n. 1 crust over a healing cut, sore, etc. 2 (often attrib.) Colloq. Derog. Blackleg. 3 skin disease, esp. In animals. 4 fungous plant disease. —v. (-bb-) 1 colloq. Derog. Act as a blackleg. 2 form a scab, heal over.  scabby adj. (-ier, -iest). [old norse: cf. *shabby]
 Scabbard  n. Hist. Sheath of a sword etc. [anglo-french]
 Scabies  n. Contagious skin disease causing itching. [latin]
@@ -20298,7 +20074,6 @@ Scutter  v. & n. Colloq. Scurry. [perhaps an alteration of *scuttle2]
 Scuttle1  n. 1 = *coal-scuttle. 2  part of a car body between the windscreen and the bonnet. [old norse from latin scutella dish]
 Scylla and charybdis  n.pl. Two dangers or extremes such that one can be avoided only by approaching the other. [names of a monster and a whirlpool in greek mythology]
 Scythe  —n. Mowing and reaping implement with a long handle and curved blade swung over the ground. —v. (-thing) cut with a scythe. [old english]
-Se  abbr. 1 south-east. 2 south-eastern.
 Sea  n. 1 expanse of salt water that covers most of the earth's surface. 2 any part of this. 3 named tract of this partly or wholly enclosed by land (north sea). 4 large inland lake (sea of galilee). 5 waves of the sea; their motion or state (choppy sea). 6 (foll. By of) vast quantity or expanse. 7 (attrib.) Living or used in, on, or near the sea (often prefixed to the name of a marine animal, plant, etc., having a superficial resemblance to what it is named after) (sea lettuce).  at sea 1 in a ship on the sea. 2 perplexed, confused. By sea in a ship or ships. Go to sea become a sailor. On the sea 1 = at sea 1. 2 on the coast. [old english]
 Seabed  n. Ocean floor.
 Seaboard  n. 1 seashore or coastline. 2 coastal region.
@@ -20593,9 +20368,7 @@ Sextuple  —adj. 1 sixfold. 2 having six parts. 3 being six times as many or as
 Sextuplet  n. Each of six children born at one birth.
 Sexual intercourse  n. Method of reproduction involving insertion of the penis into the vagina, usu. Followed by ejaculation.
 Sexy  adj. (-ier, -iest) 1 sexually attractive, stimulating, or aroused. 2 colloq. (of a project etc.) Exciting, trendy.  sexily adv. Sexiness n.
-Sf  abbr. Sforzando.
 Sforzando  mus. —adj. & adv. With sudden emphasis. —n. (pl. -s or -di) 1 suddenly emphasized note or group of notes. 2 increase in emphasis and loudness. [italian]
-Sh  int. = *hush.
 Shabby  adj. (-ier, -iest) 1 faded and worn, dingy, dilapidated. 2 contemptible (a shabby trick).  shabbily adv. Shabbiness n. [related to *scab]
 Shack  —n. Roughly built hut or cabin. —v. (foll. By up) slang cohabit, esp. As lovers. [perhaps from mexican jacal wooden hut]
 Shackle  —n. 1 metal loop or link, closed by a bolt, used to connect chains etc. 2 fetter for the ankle or wrist. 3 (usu. In pl.) Restraint, impediment. —v. (-ling) fetter, impede, restrain. [old english]
@@ -20846,7 +20619,6 @@ Shuttlecock  n. Cork with a ring of feathers, or a similar plastic device, struc
 Shy1  —adj. (shyer, shyest or shier, shiest) 1 a timid and nervous in company; self-conscious. B (of animals etc.) Easily startled. 2 (in comb.) Disliking or fearing (work-shy). —v. (shies, shied) 1 (usu. Foll. By at) (esp. Of a horse) turn suddenly aside in fright. 2 (usu. Foll. By away from, at) avoid involvement in. —n. Sudden startled movement.  shyly adv. (also shily). Shyness n. [old english]
 Shylock  n. Hard-hearted money-lender. [name of a character in a play by shakespeare]
 Shyster  n. Esp. Us colloq. Unscrupulous or unprofessional person. [origin uncertain]
-Si  symb. Silicon.
 Siamese twins  n.pl. 1 twins joined at some part of the body. 2 any closely associated pair.
 Sibilant  —adj. 1 sounded with a hiss. 2 hissing. —n. Sibilant letter or sound.  sibilance n. Sibilancy n. [latin]
 Sibling  n. Each of two or more children having one or both parents in common. [old english, = akin]
@@ -21190,7 +20962,6 @@ Slurry  n. Thin semi-liquid cement, mud, manure, etc. [related to dial. Slur thi
 Slush fund  n. Reserve fund, esp. For political bribery.
 Slut  n. Derog. Slovenly or promiscuous woman.  sluttish adj. [origin unknown]
 Sly  adj. (slyer, slyest) 1 cunning, crafty, wily. 2 secretive. 3 knowing; insinuating.  on the sly secretly.  slyly adv. Slyness n. [old norse: related to *slay]
-Sm  symb. Samarium.
 Smack3  n. Single-masted sailing-boat. [low german or dutch]
 Smacker  n. Slang 1 loud kiss. 2 a £1. B us $1.
 Small-scale  adj. Made or occurring on a small scale.
@@ -21241,7 +21012,6 @@ Smudge  —n. Blurred or smeared line, mark, blot, etc. —v. (-ging) 1 make a s
 Smug  adj. (smugger, smuggest) self-satisfied.  smugly adv. Smugness n. [low german smuk pretty]
 Smuggle  v. (-ling) 1 (also absol.) Import or export illegally, esp. Without paying duties. 2 (foll. By in, out) convey secretly.  smuggler n. Smuggling n. [low german]
 Smut  —n. 1 small flake of soot etc. 2 spot or smudge made by this. 3 obscene talk, pictures, or stories. 4 fungous disease of cereals. —v. (-tt-) mark with smuts. smutty adj. (-ier, -iest). [origin unknown]
-Sn  symb. Tin. [latin tannun]
 Snack bar  n. Place where snacks are sold.
 Snaffle  —n. (in full snaffle-bit) simple bridle-bit without a curb. —v. (-ling) colloq. Steal; seize. [low german or dutch perhaps from snavel beak]
 Snafu  slang —adj. In utter confusion. —n. This state. [acronym of ‘situation normal: all fouled (or fucked) up’]
@@ -21318,7 +21088,6 @@ Snuffle  —v. (-ling) 1 make sniffing sounds. 2 speak or say nasally or whining
 Snug  —adj. (snugger, snuggest) 1 cosy, comfortable, sheltered. 2 close-fitting. —n. Small room in a pub.  snugly adv. [probably low german or dutch]
 Snuggery  n. (pl. -ies) snug place, den.
 Snuggle  v. (-ling) settle or draw into a warm comfortable position.
-So1  —adv. 1 to such an extent (stop complaining so; so small as to be invisible; not so late as i expected). 2 in this or that way; in the manner, position, or state described or implied (place your feet so; am not cold but may become so). 3 also (he went and so did i). 4 indeed, actually (you said it was good, and so it is). 5 very (i am so glad). 6 (with verbs of saying or thinking etc.) Thus, this, that (i think so; so he said). —conj. (often foll. By that) 1 consequently (was ill, so couldn't come). 2 in order that (came early so that i could see you). 3 and then; as the next step (so then i gave up; and so to bed). 4 (introducing a question) then; after that (so what did you do?).  and so on (or forth) 1 and others of the same kind. 2 and in other similar ways. Or so approximately (50 or so). So as to in order to. So be it expression of acceptance or resignation. So long! Colloq. Goodbye. So much 1 a certain amount (of). 2 nothing but (so much nonsense). So much for that is all that need be done or said about (a thing). So so adj. & adv. Colloq. Only moderately good or well. So what? Colloq. That is not significant. [old english]
 Soak  —v. 1 make or become thoroughly wet through saturation. 2 (of rain etc.) Drench. 3 (foll. By in, up) absorb (liquid, knowledge, etc.). 4 refl. (often foll. By in) steep (oneself) in a subject etc. 5 (foll. By in, into, through) (of liquid) go or penetrate by saturation. 6 colloq. Extort money from. 7 colloq. Drink heavily. —n. 1 act of soaking; prolonged spell in a bath. 2 colloq. Hard drinker. [old english]
 Soakaway  n. Pit into which liquids may flow and then percolate slowly into the subsoil.
 Soaking  adj. (in full soaking wet) wet through.
@@ -21788,7 +21557,6 @@ Sputum  n. (pl. Sputa) 1 saliva. 2 expectorated matter, used esp. In diagnosis. 
 Spy  —n. (pl. Spies) 1 person who secretly collects and reports information for a government, company, etc. 2 person watching others secretly. —v. (spies, spied) 1 discern, see. 2 (often foll. By on) act as a spy. 3 (often foll. By into) pry.  spy out explore or discover, esp. Secretly. [french espie, espier]
 Spyglass  n. Small telescope.
 Spyhole  n. Peep-hole.
-Sq.  Abbr. Square.
 Squab  —n. 1 young (esp. Unfledged) pigeon or other bird. 2 short fat person. 3 stuffed cushion, esp. As part of a car-seat. 4 sofa, ottoman. —adj. Short and fat, squat. [perhaps from scandinavian]
 Squabble  —n. Petty or noisy quarrel. —v. (-ling) engage in this. [probably imitative]
 Squad car  n. Police car.
@@ -21823,9 +21591,6 @@ Squirm  —v. 1 wriggle, writhe. 2 show or feel embarrassment. —n. Squirming m
 Squirrel  —n. 1 bushy-tailed usu. Tree-living rodent. 2 its fur. 3 hoarder. —v. (-ll-; us -l-) 1 (often foll. By away) hoard. 2 (often foll. By around) bustle about. [greek skiouros, from skia shade, oura tail]
 Squirt  —v. 1 eject (liquid etc.) In a jet. 2 be ejected in this way. 3 splash with a squirted substance. —n. 1 a jet of water etc. B small quantity squirted. 2 syringe. 3 colloq. Insignificant but self-assertive person. [imitative]
 Squish  colloq. —n. Slight squelching sound. —v. Move with a squish.  squishy adj. (-ier, -iest). [imitative]
-Sr  symb. Strontium.
-Ss  abbr. 1 steamship. 2 hist. Nazi special police force. 3 saints. [sense 2 from german schutz-staffel]
-St leger  n. Horse-race at doncaster for three-year-olds. [from the name of the founder]
 Stab in the back  —n. Treacherous attack. —v. Betray.
 Stability  n. Being stable. [latin: related to *stable]
 Stabilize  v. (also -ise) (-zing or -sing) make or become stable.  stabilization n.
@@ -22602,7 +22367,6 @@ Suttee  n. Esp. Hist. 1 hindu custom of a widow's suicide on her husband's funer
 Suture  —n. 1 stitching of the edges of a wound or incision. 2 thread or wire used for this. —v. (-ring) stitch (a wound or incision). [latin suo sut- sew]
 Suzerain  n. 1 hist. Feudal overlord. 2 archaic sovereign or state partially controlling another state that is internally autonomous.  suzerainty n. [french]
 Svelte  adj. Slender, lissom, graceful. [french from italian]
-Sw  abbr. 1 south-west. 2 south-western.
 Swab  —n. 1 a absorbent pad used in surgery. B specimen of a secretion taken for examination. 2 mop etc. For cleaning or mopping up. —v. (-bb-) 1 clean with a swab. 2 (foll. By up) absorb (moisture) with a swab. 3 mop clean (a ship's deck) [dutch]
 Swaddle  v. (-ling) wrap (esp. A baby) tightly. [from *swathe]
 Swaddling-clothes  n.pl. Narrow bandages formerly used to wrap and restrain a baby.
@@ -22755,8 +22519,6 @@ Systematic  adj. 1 methodical; according to a system. 2 regular, deliberate.  s
 Systematize  v. (also -ise) (-zing or -sing) make systematic.  systematization n.
 Systemic  adj. 1 physiol. Of the whole body. 2 (of an insecticide etc.) Entering the plant via the roots or shoots and freely transported within its tissues.  systemically adv.
 Systems analysis  n. Analysis of a complex process etc. In order to improve its efficiency esp. By using a computer.  systems analyst n.
-T-square  n. T-shaped instrument for drawing right angles.
-Ta  abbr. Territorial army.
 Tab1  —n. 1 small flap or strip of material attached for grasping, fastening, or hanging up, or for identification. 2 us colloq. Bill (picked up the tab). 3  distinguishing mark on a staff officer's collar. —v. (-bb-) provide with a tab or tabs.  keep tabs (or a tab) on colloq. 1 keep account of. 2 have under observation or in check. [probably dial.]
 Tabard  n. 1 herald's official coat emblazoned with royal arms. 2 woman's or girl's sleeveless jerkin. 3 hist. Knight's short emblazoned garment worn over armour. [french]
 Tabasco  n. 1 pungent pepper. 2 (tabasco) propr. Sauce made from this. [tabasco in mexico]
@@ -22946,10 +22708,7 @@ Taxman  n. Colloq. Inspector or collector of taxes.
 Taxon  n. (pl. Taxa) any taxonomic group. [back-formation from *taxonomy]
 Taxonomy  n. Classification of living and extinct organisms.  taxonomic adj. Taxonomical adj. Taxonomically adv. Taxonomist n. [greek taxis arrangement, -nomia distribution]
 Taxpayer  n. Person who pays taxes.
-Tb  abbr. 1 tubercle bacillus. 2 tuberculosis.
 Tbsp.  Abbr. Tablespoonful.
-Tc  symb. Technetium.
-Te-hee  var. Of *tee-hee.
 Tea break  n. Pause in work etc. To drink tea.
 Teacake  n. Light usu. Toasted sweet bun eaten at tea.
 Teach  v. (past and past part. Taught) 1 a give systematic information, instruction, or training to (a person) or about (a subject or skill) (taught me to swim). B (absol.) Practise this professionally. C communicate, instruct in (suffering taught me patience). 2 advocate as a moral etc. Principle (taught forgiveness). 3 (foll. By to + infin.) A instruct (a person) by example or punishment (that will teach you not to disobey). B colloq. Discourage (a person) from (that will teach you to laugh).  teachable adj. [old english]
@@ -23182,7 +22941,6 @@ Textbook  —n. Book for use in studying, esp. A standard account of a subject. 
 Textile  —n. 1 (often in pl.) Fabric, cloth, or fibrous material, esp. Woven. 2 fibre, yarn. —adj. 1 of weaving or cloth (textile industry). 2 woven (textile fabrics). [latin: related to *text]
 Textual  adj. Of, in, or concerning a text.  textually adv.
 Texture  —n. 1 feel or appearance of a surface or substance. 2 arrangement of threads etc. In textile fabric. —v. (-ring) (usu. As textured adj.) 1 provide with a texture. 2 (of vegetable protein) provide with a texture resembling meat.  textural adj. [latin: related to *text]
-Th  symb. Thorium.
 Thai  —n. (pl. Same or -s) 1 a native or national of thailand. B person of thai descent. 2 language of thailand. —adj. Of thailand. [thai, = free]
 Thalidomide  n. Sedative drug found in 1961 to cause foetal malformation when taken early in pregnancy. [from phthalimidoglutarimide]
 Thallium  n. Rare soft white metallic element. [greek thallos green shoot]
@@ -23382,7 +23140,6 @@ Thymol  n. Antiseptic obtained from oil of thyme.
 Thymus  n. (pl. Thymi) lymphoid organ situated in the neck of vertebrates. [greek]
 Thyroid  n. (in full thyroid gland) 1 large ductless gland in the neck of vertebrates, secreting a hormone which regulates growth and development. 2 extract prepared from the thyroid gland of animals and used in treating goitre etc. [greek thureos oblong shield]
 Thyself  pron. Archaic emphat. & refl. Form of *thou1, *thee.
-Ti  symb. Titanium.
 Tiara  n. 1 jewelled ornamental band worn on the front of a woman's hair. 2 three-crowned diadem worn by a pope.  tiaraed adj. [latin from greek]
 Tibia  n. (pl. Tibiae) anat. Inner of two bones extending from the knee to the ankle.  tibial adj. [latin]
 Tic  n. (in full nervous tic) occasional involuntary contraction of the muscles, esp. Of the face. [french from italian]
@@ -23490,9 +23247,7 @@ Tittle-tattle  —n. Petty gossip. —v. (-ling) gossip, chatter. [reduplication
 Tittup  —v. (-p- or -pp-) go about friskily or jerkily; bob up and down; canter. —n. Such a gait or movement. [perhaps imitative]
 Titular  adj. 1 of or relating to a title. 2 existing, or being, in name or title only (titular ruler). [french: related to *title]
 Tizzy  n. (pl. -ies) colloq. State of agitation (in a tizzy). [origin unknown]
-Tm  symb. Thulium.
 Tnt  abbr. Trinitrotoluene, a high explosive formed from toluene.
-To-do  n. (pl. -s) commotion or fuss.
 Toad-in-the-hole  n. Sausages baked in batter.
 Toadflax  n. Plant with yellow or purple flowers.
 Toadstool  n. Fungus, usu. Poisonous, with a round top and slender stalk.
@@ -24017,7 +23772,6 @@ Tsar  n. (also czar) (fem. Tsarina) hist. Title of the former emperors of russia
 Tsetse  n. African fly feeding on blood and transmitting esp. Sleeping-sickness. [tswana]
 Tsp.  Abbr. (pl. Tsps.) Teaspoonful.
 Tsunami  n. (pl. -s) long high sea wave caused by underwater earthquakes etc. [japanese]
-Tu-whit, tu-whoo  n. Representation of the cry of an owl. [imitative]
 Tub-thumper  n. Colloq. Ranting preacher or orator.
 Tuba  n. (pl. -s) low-pitched brass wind instrument. [latin, = trumpet]
 Tubby  adj. (-ier, -iest) short and fat.  tubbiness n.
@@ -24127,7 +23881,6 @@ Tutti-frutti  n. (pl. -s) ice-cream containing small pieces of mixed glacé frui
 Tutu  n. Ballet dancer's short skirt of stiffened frills. [french]
 Tux  n. Us colloq. = *tuxedo. [abbreviation]
 Tuxedo  n. (pl. -s or -es) us 1 dinner-jacket. 2 suit of clothes including this. [tuxedo park in us]
-Tv  abbr. Television.
 Twaddle  n. Silly writing or talk; nonsense. [earlier twattle, alteration of *tattle]
 Twain  adj. & n. Archaic two. [old english, masculine form of *two]
 Twang  —n. 1 sound made by a plucked string or released bowstring. 2 nasal quality of a voice. —v. (cause to) emit this sound.  twangy adj. [imitative]
@@ -24197,7 +23950,6 @@ Tyrant  n. 1 oppressive or cruel ruler. 2 person exercising power arbitrarily or
 Tyre  n. (us tire) rubber covering, usu. Inflated, placed round a wheel to form a soft contact with the road. [var. Of *tire2]
 Tyrian purple  see *purple n. 2.
 Tyro  var. Of *tiro.
-U.c.  Abbr. Upper case.
 Ubiquitous  adj. 1 (seemingly) present everywhere simultaneously. 2 often encountered.  ubiquity n. [latin ubique everywhere]
 Udder  n. Baglike mammary organ of cattle etc., with several teats. [old english]
 Udi  abbr. Unilateral declaration of independence.
@@ -24206,7 +23958,6 @@ Ugh  int. 1 expressing disgust etc. 2 sound of a cough or grunt. [imitative]
 Ugli  n. (pl. -lis or -lies) propr. Mottled green and yellow hybrid of a grapefruit and a tangerine. [from *ugly]
 Uglify  v. (-ies, -ied) make ugly.
 Ugly customer  n. Threatening or violent person.
-Uh-huh  int. Colloq. Yes; indeed. [imitative]
 Ukrainian  —n. 1 native or language of ukraine. 2 person of ukrainian descent. —adj. Of ukraine, its people, or language. [ukraine in eastern europe]
 Ukulele  n. Small four-stringed hawaiian guitar. [hawaiian]
 Ulcer  n. 1 open sore on or in the body, often forming pus. 2 corrupting influence etc.  ulcerous adj. [latin ulcus -cer-]
@@ -24229,7 +23980,6 @@ Ultrasonics  n.pl. (usu. Treated as sing.) Science of ultrasonic waves.
 Ultrasound  n. Ultrasonic waves.
 Ultraviolet  adj. Of or using radiation with a frequency just beyond that of the violet end of the visible spectrum.
 Ululate  v. (-ting) howl, wail.  ululation n. [latin]
-Um  int. Expressing hesitation or a pause in speech. [imitative]
 Umbel  n. Flower-cluster with stalks springing from a common centre and forming a flat or curved surface.  umbellate adj. [latin umbella sunshade]
 Umbelliferous  adj. (of a plant) bearing umbels, such as parsley and carrot.
 Umber  —n. 1 natural pigment like ochre but darker and browner. 2 colour of this. —adj. Of this colour. [latin umbra shadow]
@@ -24241,7 +23991,6 @@ Umbrella  n. 1 collapsible cloth canopy on a central stick, used against rain, s
 Umlaut  n. 1 mark (¨) used over a vowel, esp. In germanic languages, to indicate a vowel change. 2 such a vowel change, e.g. German mann, männer, english man, men. [german]
 Umpire  —n. Person enforcing rules and settling disputes in esp. Cricket or between disputants. —v. (-ring) (often foll. By for, in, etc.) Act as umpire (in). [french nonper not equal: related to *peer2]
 Umpteen  colloq. —adj. Indefinitely many; a lot of. —pron. Indefinitely many.  umpteenth adj. [jocular formation on *-teen]
-Un-american  adj. 1 uncharacteristic of americans. 2 contrary to us interests, treasonable.
 Unabashed  adj. Not abashed.
 Unabated  adj. Not abated; undiminished.
 Unable  predic. Adj. (usu. Foll. By to + infin.) Not able.
@@ -25143,7 +24892,6 @@ Unwrap  v. (-pp-) 1 remove the wrapping from. 2 open, unfold. 3 become unwrapped
 Unwritten  adj. 1 not written. 2 (of a law etc.) Based on custom or judicial decision, not on statute.
 Unyielding  adj. 1 not yielding. 2 firm, obstinate.
 Unzip  v. (-pp-) unfasten the zip of.
-Up-and-coming  adj. Colloq. (of a person) promising; progressing.
 Upbeat  —n. Unaccented beat in music. —adj. Colloq. Optimistic, cheerful.
 Upbraid  v. (often foll. By with, for) chide, reproach. [old english: related to *braid = brandish]
 Upbringing  n. Rearing of a child. [obsolete upbring to rear]
@@ -25216,7 +24964,6 @@ Urogenital  adj. Of the urinary and reproductive systems. [greek ouron urine]
 Urology  n. The study of the urinary system.  urological adj.
 Ursa minor  n. = little bear (see *bear2). [latin]
 Ursine  adj. Of or like a bear. [latin ursus bear]
-Us  abbr. United states.
 Usa  abbr. United states of america.
 Usable  adj. That can be used.
 Usage  see note at egoism.
@@ -25246,7 +24993,6 @@ Uttermost  attrib. Adj. Utmost.
 Uvula  n. (pl. Uvulae) fleshy part of the soft palate hanging above the throat.  uvular adj. [latin diminutive of uva grape]
 Uxorial  adj. Of a wife. [latin uxor wife]
 Uxorious  adj. Greatly or excessively fond of one's wife.
-V-sign  n. 1 sign of the letter v made with the first two fingers pointing up and the back of the hand facing outwards, as a gesture of abuse etc. 2 similar sign made with the palm of the hand facing outwards, as a symbol of victory.
 Vac  n. Colloq. 1 vacation. 2 vacuum cleaner. [abbreviation]
 Vacancy  n. (pl. -ies) 1 being vacant. 2 unoccupied job. 3 available room in a hotel etc.
 Vacant possession  n. Ownership of an unoccupied house etc.
@@ -25334,8 +25080,6 @@ Vaudeville  n. Esp. Us 1 variety entertainment. 2 light stage play with interspe
 Vault  —n. 1 arched roof. 2 vaultlike covering (vault of heaven). 3 underground storage chamber or place of interment beneath a church or in a cemetery etc. 4 act of vaulting. —v. 1 leap, esp. Using the hands or a pole. 2 spring over in this way. 3 (esp. As vaulted) a make in the form of a vault. B provide with a vault or vaults. [latin volvo roll]
 Vaulting-horse  n. Wooden box for vaulting over.
 Vaunt  v. & n. Literary boast. [latin: related to *vain]
-Vc  abbr. Victoria cross.
-Vd  abbr. Venereal disease.
 Veal  n. Calf's flesh as food. [french from latin vitulus calf]
 Vector  n. 1 math. & physics quantity having direction as well as magnitude. 2 carrier of disease. [latin veho vect- convey]
 Veda  n. (in sing. Or pl.) Oldest hindu scriptures.  vedic adj. [sanskrit, = knowledge]
@@ -25663,7 +25407,6 @@ Vowel  n. 1 speech-sound made with vibration of the vocal cords but without audi
 Vox pop  n. (often attrib.)  Colloq. Popular opinion as represented by informal comments from the public. [abbreviation of *vox populi]
 Voyage  —n. Journey, esp. A long one by sea or in space. —v. (-ging) make a voyage.  voyager n. [latin *viaticum]
 Voyeur  n. 1 person who derives sexual pleasure from secretly observing others' sexual activity or organs. 2 (esp. Covert) spectator.  voyeurism n. Voyeuristic adj. [french voir see]
-Vs.  Abbr. Versus.
 Vulcanite  n. Hard black vulcanized rubber. [related to *vulcanize]
 Vulcanize  v. (also -ise) (-zing or -sing) treat (rubber etc.) With sulphur at a high temperature to strengthen it.  vulcanization n. [vulcan: related to *volcano]
 Vulcanology  n. The study of volcanoes.  vulcanological adj. Vulcanologist n.
@@ -25677,10 +25420,7 @@ Vulnerable  adj. 1 easily wounded or harmed. 2 (foll. By to) exposed to damage, 
 Vulpine  adj. 1 of or like a fox. 2 crafty, cunning. [latin vulpes fox]
 Vulture  n. 1 large carrion-eating bird of prey, reputed to gather with others in anticipation of a death. 2 rapacious person. [anglo-french from latin]
 Vulva  n. (pl. -s)  external female genitals. [latin]
-Vv.  Abbr. 1 verses. 2 volumes.
 Vying  pres. Part. Of *vie.
-W 
-Wa  abbr. Western australia.
 Wacky  adj. (-ier, -iest) slang crazy. [originally dial., = left-handed]
 Wad  —n. 1 lump of soft material used esp. To keep things apart or in place or to block a hole. 2 bundle of banknotes or documents. —v. (-dd-) 1 stop up or keep in place with a wad. 2 line, stuff, or protect with wadding. [origin uncertain]
 Wadding  n. Soft fibrous material used in quilt-making etc., or to pack fragile articles.
@@ -25854,9 +25594,6 @@ Waylay  v. (past and past part. Waylaid) 1 lie in wait for. 2 stop to talk to or
 Ways and means  n.pl. 1 methods of achieving something. 2 methods of raising government revenue.
 Wayside  n. 1 side of a road. 2 land at the side of a road.
 Wayward  adj. Childishly self-willed; capricious.  waywardness n. [from *away, *-ward]
-Wb  abbr. Weber(s).
-Wc  abbr. 1 water-closet. 2 west central.
-We'd  contr. 1 we had. 2 we should; we would.
 Wea  abbr. Workers' educational association.
 Weak point  n. (also weak spot) 1 place where defences are assailable. 2 flaw in an argument or character or in resistance to temptation.
 Weaken  v. Make or become weak or weaker.
@@ -25950,7 +25687,6 @@ Westward  —adj. & adv. (also westwards) towards the west. —n. Westward direc
 Wet blanket  n. Colloq. Gloomy person hindering others' enjoyment.
 Wether  n. Castrated ram. [old english]
 Wetland  n. (often in pl.) Swamps and other damp areas of land.
-Wg. Cdr.  Abbr. Wing commander.
 Whack  colloq. —v. 1 strike or beat forcefully. 2 (as whacked adj.) Tired out. —n. 1 sharp or resounding blow. 2 slang share.  have a whack at slang attempt. [imitative]
 Whacking  colloq. —adj. Very large. —adv. Very.
 Whale  —n. (pl. Same or -s) very large marine mammal with a streamlined body and horizontal tail. —v. (-ling) hunt whales.  a whale of a colloq. An exceedingly good or fine etc. [old english]
@@ -26078,7 +25814,6 @@ Whortleberry  n. (pl. -ies) bilberry. [origin unknown]
 Whose  —interrog. Pron. Of or belonging to which person (whose is this book?). —interrog. Adj. Of whom or which (whose book is this?) —rel. Pron. Of whom; of which (the man, whose name was tim; the house whose roof was damaged).
 Whosoever  pron. (obj. Whomsoever; poss. Whosesoever) archaic = *whoever.
 Why  —adv. 1 for what reason or purpose (why did you do it?; i do not know why you came). 2 (prec. By reason etc.) For which (the reasons why i did it). —int. Expressing: 1 surprised discovery or recognition (why, it's you!). 2 impatience (why, of course i do!). 3 reflection (why, yes, i think so). 4 objection (why, what is wrong with it?).  whys and wherefores reasons; explanation. [old english: related to *what]
-Wi  abbr. 1 west indies. 2  women's institute.
 Wick  n. Strip or thread feeding a flame with fuel.  get on a person's wick colloq. Annoy a person. [old english]
 Wicked  adj. (-er, -est) 1 sinful, iniquitous, immoral. 2 spiteful. 3 playfully malicious. 4 colloq. Very bad. 5 slang excellent.  wickedly adv. Wickedness n. [origin uncertain]
 Wicker  n. Plaited osiers etc. As material for baskets etc. [scandinavian]
@@ -26208,7 +25943,6 @@ Witty  adj. (-ier, -iest) showing esp. Verbal wit.  wittily adv. Wittiness n. [
 Wives  pl. Of *wife.
 Wizard  —n. 1 sorcerer; magician. 2 person of remarkable powers, genius. —adj. Slang wonderful.  wizardry n. [from *wise1]
 Wizened  adj. Shrivelled-looking. [old english]
-Wo  abbr. Warrant-officer.
 Woad  n. 1 plant yielding a blue dye. 2 dye from this. [old english]
 Wobble  —v. (-ling) 1 sway from side to side. 2 stand or go unsteadily; stagger. 3 waver, vacillate. —n. State or instance of wobbling. [cf. Low german wabbeln]
 Wobbly  adj. (-ier, -iest) 1 tending to wobble. 2 wavy (wobbly line). 3 weak after illness. 4 wavering, insecure (the economy was wobbly).  throw a wobbly slang have a tantrum or fit of nerves.
@@ -26383,19 +26117,15 @@ Wrought iron  n. Tough malleable form of iron suitable for forging or rolling, n
 Wrung  past and past part. Of *wring.
 Wry  adj. (wryer, wryest or wrier, wriest) 1 distorted or turned to one side. 2 (of a face, smile, etc.) Contorted in disgust, disappointment, or mockery. 3 (of humour) dry and mocking.  wryly adv. Wryness n. [old english]
 Wryneck  n. Small woodpecker able to turn its head over its shoulder.
-Wt  abbr. Weight.
 Wych-  comb. Form in names of trees with pliant branches (wych-alder; wych-elm). [old english, = bending]
 Wykehamist  —adj. Of winchester college. —n. Past or present member of winchester college. [william of wykeham, name of the founder]
-X 
 Xenon  n. Heavy inert gaseous element. [greek, neuter of xenos strange]
 Xenophobia  n. Hatred or fear of foreigners.  xenophobic adj. [greek xenos strange, stranger]
 Xerography  n. Dry copying process in which powder adheres to areas remaining electrically charged after exposure of the surface to light from an image of the document to be copied. [greek xeros dry]
 Xerox  —n. Propr. 1 machine for copying by xerography. 2 copy thus made. —v. (xerox) reproduce by this process.
-Xi  n. Fourteenth letter of the greek alphabet (x, x). [greek]
 Xmas  n. Colloq. = *christmas. [abbreviation, with x for the initial chi of greek khristos christ]
 Xylem  n. Bot. Woody tissue. [greek]
 Xylophone  n. Musical instrument of graduated wooden or metal bars struck with small wooden hammers.  xylophonist n. [greek xulon wood]
-Y chromosome  n. (in humans and some other mammals) sex chromosome occurring only in male cells. [y as an arbitrary label]
 Yacht  —n. 1 light sailing-vessel. 2 larger usu. Power-driven vessel for cruising. —v. Race or cruise in a yacht. [dutch jaghtschip, literally ‘pursuit-ship’]
 Yachtsman  n. (fem. Yachtswoman) person who sails yachts.
 Yack  slang —n. Trivial or unduly persistent conversation. —v. Engage in this. [imitative]
@@ -26422,8 +26152,6 @@ Yaw  —v. (of a ship or aircraft etc.) Fail to hold a straight course; go unste
 Yawl  n. A kind of ship's boat or sailing- or fishing-boat. [low german jolle or dutch jol]
 Yawn  —v. 1 open the mouth wide and inhale, esp. When sleepy or bored. 2 gape, be wide open. —n. 1 act of yawning. 2 colloq. Boring idea, activity, etc. [old english]
 Yaws  n.pl. (usu. Treated as sing.) Contagious tropical skin-disease with large red swellings. [origin unknown]
-Yd  abbr. (pl. Yds) yard (measure).
-Ye2  adj. Pseudo-archaic = *the (ye olde tea-shoppe). [from the obsolete y-shaped letter for th]
 Yea  archaic —adv. 1 yes. 2 indeed (ready, yea eager). —n. Utterance of ‘yea’; ‘yes’ vote. [old english]
 Yeah  adv. Colloq. Yes. [a casual pronunciation of *yes]
 Year  n. 1 time occupied by the earth in one revolution round the sun, approx. 3651/4 days. 2 = *calendar year. 3 period of twelve months, starting at any point (four years ago; tax year). 4 (in pl.) Age, time of life (young for his years). 5 (usu. In pl.) Colloq. Very long time. 6 group of students entering college etc. In the same academic year. [old english]
@@ -26453,7 +26181,6 @@ Yield  —v. 1 produce or return as a fruit, profit, or result. 2 give up; surre
 Yin  n. (in chinese philosophy) the passive female principle of the universe (cf. *yang).
 Yippee  int. Expressing delight or excitement. [natural exclamation]
 Ymca  abbr. Young men's christian association.
-Yo-yo  n. (pl. Yo-yos) 1 toy consisting of a pair of discs with a deep groove between them in which string is attached and wound, and which can be made to fall and rise. 2 thing that repeatedly falls and rises. [origin unknown]
 Yob  n. Slang lout, hooligan.  yobbish adj. [back slang for *boy]
 Yobbo  n. (pl. -s) slang = *yob.
 Yodel  —v. (-ll-; us -l-) sing with melodious inarticulate sounds and frequent changes between falsetto and normal voice in the manner of swiss mountain-dwellers. —n. Yodelling cry.  yodeller n. [german]
@@ -26481,7 +26208,6 @@ Yourself  pron. (pl. Yourselves) 1 a emphat. Form of *you. B refl. Form of *you.
 Youth hostel  n. Any of a chain of cheap lodgings for holiday-makers, esp. Walkers and cyclists.
 Youthful  adj. Young or still having the characteristics of youth.  youthfully adv. Youthfulness n.
 Yowl  —n. Loud wailing cry of or as of a cat or dog in distress. —v. Utter a yowl. [imitative]
-Yr.  Abbr. 1 year(s). 2 younger. 3 your.
 Yrs.  Abbr. 1 years. 2 yours.
 Ytterbium  n. Metallic element of the lanthanide series. [ytterby in sweden]
 Yttrium  n. Metallic element resembling the lanthanides. [related to *ytterbium]
@@ -26497,7 +26223,6 @@ Yummy  adj. (-ier, -iest) colloq. Tasty, delicious. [from *yum-yum]
 Yup  var. Of *yep.
 Yuppie  n. (also yuppy) (pl. -ies) (often attrib.) Colloq., usu. Derog. Young ambitious professional person working in a city. [from young urban professional]
 Ywca  abbr. Young women's christian association.
-Z 
 Zabaglione  n. Italian dessert of whipped and heated egg-yolks, sugar, and wine. [italian]
 Zany  adj. (-ier, -iest) comically idiotic; crazily ridiculous. [french or italian]
 Zap  slang —v. (-pp-) 1 a kill or destroy; attack. B hit hard (zapped the ball over the net). 2 move quickly. 3 overwhelm emotionally. —int. Expressing the sound or impact of a bullet, ray gun, etc., or any sudden event. [imitative]
@@ -26536,7 +26261,6 @@ Zirconium  n. Grey metallic element.
 Zit  n. Esp. Us slang pimple. [origin unknown]
 Zither  n. Stringed instrument with a flat soundbox, placed horizontally and played with the fingers and a plectrum. [latin: related to *guitar]
 Zloty  n. (pl. Same or -s) chief monetary unit of poland. [polish]
-Zn  symb. Zinc.
 Zodiac  n. 1 belt of the heavens including all apparent positions of the sun, moon, and planets as known to ancient astronomers, and divided into twelve equal parts (signs of the zodiac). 2 diagram of these signs.  zodiacal adj. [greek zoion animal]
 Zombie  n. 1 colloq. Person who acts mechanically or lifelessly. 2 corpse said to have been revived by witchcraft. [west african]
 Zone  —n. 1 area having particular features, properties, purpose, or use (danger zone; smokeless zone). 2 well-defined region of more or less beltlike form. 3 area between two concentric circles. 4 encircling band of colour etc. 5 archaic belt, girdle. —v. (-ning) 1 encircle as or with a zone. 2 arrange or distribute by zones. 3 assign as or to a particular area.  zonal adj. [greek zone girdle]
