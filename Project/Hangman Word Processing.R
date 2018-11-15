@@ -27,7 +27,7 @@
 
 # set wd where all final files will be saved
 
-setwd(dir = "~/Desktop/cs11a02/Project/")
+setwd(dir = "~/Desktop")
 
 # read in .txt file containing all words from Oxford English Dictionary
 
@@ -123,6 +123,18 @@ definitions <- as.data.frame(definitions, stringAsFactors = FALSE)
 # saving the 'list' of definitions into their own .txt file
 
 write.table(definitions, file = "cs11a02_hangman_definitions.txt", quote = FALSE, row.names = FALSE)
+
+
+
+# extracting all word lengths into their own dataframe
+
+word_lengths <- test$word_length
+
+word_lengths <- as.data.frame(word_lengths, stringsAsFactors = FALSE)
+
+# saving the 'list' of words into their own .txt file
+
+write.table(word_lengths, file = "cs11a02_hangman_word_lengths.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
 
 # saving this workspace
 
