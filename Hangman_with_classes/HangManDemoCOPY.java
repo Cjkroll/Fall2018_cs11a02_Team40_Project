@@ -76,7 +76,7 @@ gameCount++;
 
 
 
-// print UI Method
+// print UI Method feel free to clean it up.
 
 public static void printUI(StringBuilder hiddenWord , int lives, String lettersUsed){
   System.out.printf("%-20s %20s %20s%n", "Word: " + hiddenWord, "Lives remaining: " + lives, "Letters used: " + lettersUsed);

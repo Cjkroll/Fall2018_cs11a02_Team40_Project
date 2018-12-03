@@ -106,7 +106,15 @@ getWordIndex() will loop infinitely unless this method is called.
   }
 
 
-//below are methods added
+/**
+A method that creates hidden version of randomly chosen word.
+
+Hidden word is displayed to user. As user inputs letters in the word,
+those letters will be revealed.
+
+@param word the String object for the word user will guess in current hangman game.
+@return StringBuilder object which is same length as word but hides letter and can be transformed by user input.
+*/
 public static StringBuilder buildHiddenString(String word){
   String hiddenWordString = "";
   for(int i = 0; i < word.length(); i++){
@@ -127,7 +135,19 @@ public static boolean playAgain(){
 }
 
 
-// get each letter input by User
+/**
+This method is the framework for getting a valid letter input from user.
+
+Method inputChar() is called to get user input, and then that input is checked for validity.
+Consists of additional private methods isLetter() and isUnique() as control for letter input.
+
+An inavlid input will prompt a response and the current state of the game UI will be printed again.
+
+@param hiddenWord passed in as a parameter to be printed out in case of invalid input.
+@param lives passed in as a parameter to be printed out in case of invalid input.
+@param lettersUsed used in isUnique() control method and is also printed in case of invalid input.
+@return String representing a unqiue and valid input by user.
+*/
 
 public static String getLetter(StringBuilder hiddenWord, int lives, String lettersUsed){
   while(true){
@@ -143,8 +163,34 @@ public static String getLetter(StringBuilder hiddenWord, int lives, String lette
   }
 }
 
-// part of getLetter
-    public static boolean isUnique(String letter, String lettersUsed){
+/**
+Called by getLetter().
+
+Prompts user to input a single character.
+
+If multiple characters are entered on one line, only first character is read.
+
+@return String of the input.
+*/
+      private static String inputChar(){
+        System.out.println();
+        System.out.print("Enter a letter: ");
+        char input = TextIO.getlnChar();
+          input = Character.toLowerCase(input);
+          String letter = "" + input;
+          return letter;
+        }
+
+/**
+Called by getLetter().
+
+Checks that letter input by user has not been entered before in current hangman game.
+
+@param letter is letter user has just input.
+@param lettersUsed is a String containing all letters previously entered by user.
+@return boolean TRUE if lettersUsed does not contain letter.
+*/
+    private static boolean isUnique(String letter, String lettersUsed){
       boolean isUnique;
       if(lettersUsed.contains(letter)) {
         isUnique = false;
@@ -159,8 +205,15 @@ public static String getLetter(StringBuilder hiddenWord, int lives, String lette
     }
 
 
-// part of getLetter
-      public static boolean isLetter(String letter){
+/**
+Called by getLetter().
+
+Checks that letter input by user is alphabetical (A-Z) regardless of capitalization.
+
+@param letter user has just input.
+@return boolean TRUE if the input is a letter.
+*/
+      private static boolean isLetter(String letter){
         boolean isLetter;
         if(letter.matches("[a-zA-Z]")){
           isLetter = true;
@@ -175,15 +228,7 @@ public static String getLetter(StringBuilder hiddenWord, int lives, String lette
 
 
 
-// part of getLetter
-      public static String inputChar(){
-        System.out.println();
-        System.out.print("Enter a letter: ");
-        char input = TextIO.getlnChar();
-          input = Character.toLowerCase(input);
-          String letter = "" + input;
-          return letter;
-        }
+
 
 // print UI Method
 
