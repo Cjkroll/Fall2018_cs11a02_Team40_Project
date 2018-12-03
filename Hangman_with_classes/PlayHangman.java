@@ -104,4 +104,91 @@ getWordIndex() will loop infinitely unless this method is called.
     System.out.println();
     System.out.println("Game has been reset.");
   }
+
+
+//below are methods added
+public static StringBuilder buildHiddenString(String word){
+  String hiddenWordString = "";
+  for(int i = 0; i < word.length(); i++){
+    hiddenWordString = hiddenWordString + "*";
+  }
+  StringBuilder hiddenWordStringBuilder = new StringBuilder(hiddenWordString);
+  return hiddenWordStringBuilder;
+}
+
+
+public static boolean playAgain(){
+  boolean newGame;
+  System.out.println();
+  System.out.println("The game's over! Want to play again?");
+  System.out.print("Enter 'yes' or 'no' ");
+  newGame = TextIO.getlnBoolean();
+  return newGame;
+}
+
+
+// get each letter input by User
+
+public static String getLetter(StringBuilder hiddenWord, int lives, String lettersUsed){
+  while(true){
+    String letter = inputChar();
+    if (isLetter(letter) && isUnique(letter, lettersUsed)){
+      return letter;
+    }
+    else {
+      System.out.println();
+      PlayHangman.printUI(hiddenWord, lives, lettersUsed);
+      continue;
+    }
+  }
+}
+
+// part of getLetter
+    public static boolean isUnique(String letter, String lettersUsed){
+      boolean isUnique;
+      if(lettersUsed.contains(letter)) {
+        isUnique = false;
+        System.out.println();
+        System.out.println("You already used that letter!");
+        return isUnique;
+      }
+      else{
+        isUnique = true;
+        return isUnique;
+      }
+    }
+
+
+// part of getLetter
+      public static boolean isLetter(String letter){
+        boolean isLetter;
+        if(letter.matches("[a-zA-Z]")){
+          isLetter = true;
+        }
+        else{
+          System.out.println();
+          System.out.println("Please enter letters only.");
+          isLetter = false;
+        }
+        return isLetter;
+      }
+
+
+
+// part of getLetter
+      public static String inputChar(){
+        System.out.println();
+        System.out.print("Enter a letter: ");
+        char input = TextIO.getlnChar();
+          input = Character.toLowerCase(input);
+          String letter = "" + input;
+          return letter;
+        }
+
+// print UI Method
+
+        public static void printUI(StringBuilder hiddenWord , int lives, String lettersUsed){
+          System.out.printf("%-20s %20s %20s%n", "Word: " + hiddenWord, "Lives remaining: " + lives, "Letters used: " + lettersUsed);
+        }
+
 }

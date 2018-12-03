@@ -27,7 +27,7 @@ String lettersUsed = "";
 int lives = PlayHangman.difficultySelection();
 int wordIndex = PlayHangman.getWordIndex(26275);
 String word = words[wordIndex];
-StringBuilder hiddenWord = buildHiddenString(word);
+StringBuilder hiddenWord = PlayHangman.buildHiddenString(word);
 
 
 // need to print UI which includes hidden word as StringBuilder object
@@ -35,7 +35,7 @@ StringBuilder hiddenWord = buildHiddenString(word);
 while(lives > 0){
   System.out.println();
   printUI(hiddenWord, lives, lettersUsed); // UI for game loaded after each letter has been input
-  String letter = getLetter(hiddenWord, lives, lettersUsed);  // this whole method based on code in WordHandling.java
+  String letter = PlayHangman.getLetter(hiddenWord, lives, lettersUsed);  // this whole method based on code in WordHandling.java
   lettersUsed = lettersUsed + letter ;
   if(word.contains(letter)){
     for(int i = 0; i < word.length(); i++){
@@ -61,7 +61,7 @@ System.out.printf("The word was %s.%n" , word);
 //definition();
 gameCount++;
 //winrate();
-} while(playAgain());
+} while(PlayHangman.playAgain());
 
 
 
@@ -96,82 +96,15 @@ public static void printUI(StringBuilder hiddenWord , int lives, String lettersU
 
 
 // building hidden word that will be modified by correct user input
-public static StringBuilder buildHiddenString(String word){
-  String hiddenWordString = "";
-  for(int i = 0; i < word.length(); i++){
-    hiddenWordString = hiddenWordString + "*";
-  }
-  StringBuilder hiddenWordStringBuilder = new StringBuilder(hiddenWordString);
-  return hiddenWordStringBuilder;
-}
-
-// get each letter input by User
-
-public static String getLetter(StringBuilder hiddenWord, int lives, String lettersUsed){
-  while(true){
-    String letter = inputChar();
-    if (isLetter(letter) && isUnique(letter, lettersUsed)){
-      return letter;
-    }
-    else {
-      System.out.println();
-      printUI(hiddenWord, lives, lettersUsed);
-      continue;
-    }
-  }
-}
-
-// part of getLetter
-public static String inputChar(){
-  System.out.println();
-  System.out.print("Enter a letter: ");
-  char input = TextIO.getlnChar();
-    input = Character.toLowerCase(input);
-    String letter = "" + input;
-    return letter;
-  }
-
-// part of getLetter
-  public static boolean isLetter(String letter){
-    boolean isLetter;
-    if(letter.matches("[a-zA-Z]")){
-      isLetter = true;
-    }
-    else{
-      System.out.println();
-      System.out.println("Please enter letters only.");
-      isLetter = false;
-    }
-    return isLetter;
-  }
-
-// part of getLetter
-    public static boolean isUnique(String letter, String lettersUsed){
-      boolean isUnique;
-      if(lettersUsed.contains(letter)) {
-        isUnique = false;
-        System.out.println();
-        System.out.println("You already used that letter!");
-        return isUnique;
-      }
-      else{
-        isUnique = true;
-        return isUnique;
-      }
-    }
-
-// this is good
-public static boolean playAgain(){
-  boolean newGame;
-  System.out.println();
-  System.out.println("The game's over! Want to play again?");
-  System.out.print("Enter 'yes' or 'no' ");
-  newGame = TextIO.getlnBoolean();
-  return newGame;
 
 
 
-}
+
+
+
+
+
+
 
 }
 
