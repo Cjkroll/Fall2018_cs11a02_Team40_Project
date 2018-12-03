@@ -25,7 +25,7 @@ public class TestUniqueExistencePosition {
 
 
 
-    while(chance > 0){
+    while(true){
       System.out.println("Enter your letter: "); ////enter a letter
       char inputletter= TextIO.getlnChar();
 
