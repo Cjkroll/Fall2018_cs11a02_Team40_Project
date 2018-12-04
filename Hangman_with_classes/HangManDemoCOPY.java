@@ -27,6 +27,7 @@ String lettersUsed = "";
 int lives = PlayHangman.difficultySelection();
 int wordIndex = PlayHangman.getWordIndex(26275);
 String word = words[wordIndex];
+String definition = definitions[wordIndex];
 StringBuilder hiddenWord = PlayHangman.buildHiddenString(word);
 
 
@@ -58,6 +59,7 @@ while(lives > 0){
 }
 
 System.out.printf("The word was %s.%n" , word);
+System.out.println("\n" + definition);
 //definition();
 gameCount++;
 //winrate();
