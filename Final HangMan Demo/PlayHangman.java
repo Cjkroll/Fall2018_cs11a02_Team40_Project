@@ -56,6 +56,7 @@ public class PlayHangman{
     System.out.println();
     System.out.println("Well well. How many lives do you wanna have?");
     while(true){
+      System.out.println();
       System.out.print("> ");
       int customLives = TextIO.getlnInt();
       System.out.println();
