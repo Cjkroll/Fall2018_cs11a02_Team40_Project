@@ -235,5 +235,11 @@ Checks that letter input by user is alphabetical (A-Z) regardless of capitalizat
         public static void printUI(StringBuilder hiddenWord , int lives, String lettersUsed){
           System.out.printf("%-20s %20s %20s%n", "Word: " + hiddenWord, "Lives remaining: " + lives, "Letters used: " + lettersUsed);
         }
-
+ //Print Stat
+  public static void winRate(int gameCount, int wins) {
+    System.out.printf("You have played %d games and get %d wins%n", gameCount, wins);
+    double stats= (wins*100)/(gameCount);
+    System.out.printf("Your percents of winning so far is %.2f%% %n", stats);
+}
+  
 }

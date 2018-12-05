@@ -14,8 +14,8 @@ String[] definitions = HangmanSetup.loadFile("cs11a02_hangman_definitions.txt", 
 
 
 // Method 2
-//int gameCount = 0;
-//int wins = 0;
+int gameCount = 0;
+int wins = 0;
 
 // Method 3
 HangmanSetup.greetUser();
@@ -27,6 +27,7 @@ String lettersUsed = "";
 int lives = PlayHangman.difficultySelection();
 int wordIndex = PlayHangman.getWordIndex(26275);
 String word = words[wordIndex];
+String definition = definitions[wordIndex];
 StringBuilder hiddenWord = PlayHangman.buildHiddenString(word);
 
 
@@ -58,9 +59,11 @@ while(lives > 0){
 }
 
 System.out.printf("The word was %s.%n" , word);
+System.out.println("\n" + definition);
 //definition();
 gameCount++;
-//winrate();
+//winrate
+PlayHangman.winRate(gameCount, wins);
 } while(PlayHangman.playAgain());
 
 
