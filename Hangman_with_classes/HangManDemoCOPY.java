@@ -14,8 +14,8 @@ String[] definitions = HangmanSetup.loadFile("cs11a02_hangman_definitions.txt", 
 
 
 // Method 2
-//int gameCount = 0;
-//int wins = 0;
+int gameCount = 0;
+int wins = 0;
 
 // Method 3
 HangmanSetup.greetUser();
@@ -62,7 +62,8 @@ System.out.printf("The word was %s.%n" , word);
 System.out.println("\n" + definition);
 //definition();
 gameCount++;
-//winrate();
+//winrate Stats
+PlayHangman.winRate(gameCount, wins);
 } while(PlayHangman.playAgain());
 
 
